@@ -1,4 +1,4 @@
-other
-question
-answer
-header
+OTHER
+QUESTION
+ANSWER
+HEADER
