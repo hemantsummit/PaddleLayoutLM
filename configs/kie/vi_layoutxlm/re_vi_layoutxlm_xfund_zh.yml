@@ -11,7 +11,7 @@ Global:
   save_inference_dir:
   use_visualdl: False
   seed: 2022
-  infer_img: abc.jpg
+  infer_img: train_data/XFUND/zh_val/val.json
   save_res_path: ./output/re/xfund_zh/with_gt
   kie_rec_model_dir: 
   kie_det_model_dir:
