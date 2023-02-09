@@ -41,7 +41,7 @@ Optimizer:
     warmup_epoch: 10
   regularizer:
     name: L2
-    factor: 0.00000
+    factor: 0.00001
     
 PostProcess:
   name: VQAReTokenLayoutLMPostProcess
@@ -126,5 +126,5 @@ Eval:
   loader:
     shuffle: False
     drop_last: False
-    batch_size_per_card: 8
+    batch_size_per_card: 2
     num_workers: 8
