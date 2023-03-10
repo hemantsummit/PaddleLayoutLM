@@ -11,7 +11,7 @@ Global:
   save_inference_dir:
   use_visualdl: False
   seed: 2022
-  infer_img: train_data/XFUND/zh_val/val.json
+  infer_img: ppstructure/docs/kie/input/zh_val_21.jpg
   save_res_path: ./output/re/xfund_zh/with_gt
   kie_rec_model_dir: 
   kie_det_model_dir:
@@ -41,7 +41,7 @@ Optimizer:
     warmup_epoch: 10
   regularizer:
     name: L2
-    factor: 0.00001
+    factor: 0.00000
     
 PostProcess:
   name: VQAReTokenLayoutLMPostProcess
@@ -126,5 +126,5 @@ Eval:
   loader:
     shuffle: False
     drop_last: False
-    batch_size_per_card: 2
+    batch_size_per_card: 8
     num_workers: 8

@@ -11,7 +11,7 @@ Global:
   save_inference_dir:
   use_visualdl: False
   seed: 2022
-  infer_img: abc.jpg
+  infer_img: ppstructure/docs/kie/input/zh_val_42.jpg
   # if you want to predict using the groundtruth ocr info,
   # you can use the following config
   # infer_img: train_data/XFUND/zh_val/val.json
@@ -95,7 +95,7 @@ Train:
   loader:
     shuffle: True
     drop_last: False
-    batch_size_per_card: 2
+    batch_size_per_card: 8
     num_workers: 4
 
 Eval:
@@ -132,5 +132,5 @@ Eval:
   loader:
     shuffle: False
     drop_last: False
-    batch_size_per_card: 2
+    batch_size_per_card: 8
     num_workers: 4
