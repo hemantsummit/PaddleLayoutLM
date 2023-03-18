@@ -631,7 +631,7 @@ def preprocess(is_train=False):
     logger = get_logger(log_file=log_file)
 
     # check if set use_gpu=True in paddlepaddle cpu version
-    use_gpu = config['Global'].get('use_gpu', True)
+    use_gpu = config['Global'].get('use_gpu', False)
     use_xpu = config['Global'].get('use_xpu', False)
     use_npu = config['Global'].get('use_npu', False)
     use_mlu = config['Global'].get('use_mlu', False)

@@ -4,4 +4,3 @@ seqeval
 pypandoc
 attrdict
 python_docx
-paddlenlp>=2.4.1

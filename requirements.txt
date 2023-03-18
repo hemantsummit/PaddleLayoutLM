@@ -5,6 +5,7 @@ pyclipper
 lmdb
 tqdm
 numpy
+protobuf<=3.20.0
 visualdl
 rapidfuzz
 opencv-python==4.6.0.66
