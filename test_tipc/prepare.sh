@@ -138,6 +138,26 @@ if [ ${MODE} = "benchmark_train" ];then
         
         cd ../
     fi
+    if [ ${model_name} == "table_master" ];then
+        wget -nc -P ./pretrain_models/ https://paddleocr.bj.bcebos.com/ppstructure/models/tablemaster/table_structure_tablemaster_train.tar --no-check-certificate
+        cd ./pretrain_models/ && tar xf table_structure_tablemaster_train.tar  && cd ../
+        wget -nc -P ./train_data/ https://paddleocr.bj.bcebos.com/dataset/StructureLabel_val_500.tar --no-check-certificate
+        cd ./train_data/ && tar xf StructureLabel_val_500.tar
+        cd ../
+    fi
+    if [ ${model_name} == "rec_svtrnet" ]; then
+        wget -nc -P ./train_data/ https://paddleocr.bj.bcebos.com/dataset/ic15_data_benckmark.tar --no-check-certificate
+        cd ./train_data/ && tar xf ic15_data_benckmark.tar
+        ln -s ./ic15_data_benckmark ./ic15_data
+        cd ic15_data
+        mv rec_gt_train4w.txt rec_gt_train.txt
+
+        for i in `seq 10`;do cp rec_gt_train.txt dup$i.txt;done
+        cat dup* > rec_gt_train.txt && rm -rf dup*
+
+        cd ../
+        cd ../
+    fi
 fi
 
 if [ ${MODE} = "lite_train_lite_infer" ];then
@@ -150,7 +170,9 @@ if [ ${MODE} = "lite_train_lite_infer" ];then
     # pretrain lite train data
     wget -nc -P  ./pretrain_models/ https://paddle-imagenet-models-name.bj.bcebos.com/dygraph/MobileNetV3_large_x0_5_pretrained.pdparams  --no-check-certificate
     wget -nc -P ./pretrain_models/  https://paddleocr.bj.bcebos.com/dygraph_v2.0/en/det_mv3_db_v2.0_train.tar  --no-check-certificate
-    cd ./pretrain_models/ && tar xf det_mv3_db_v2.0_train.tar && cd ../
+    cd ./pretrain_models/
+    tar xf det_mv3_db_v2.0_train.tar
+    cd ../
     if [[ ${model_name} =~ "ch_PP-OCRv2_det" ]];then
         wget -nc -P ./pretrain_models/ https://paddleocr.bj.bcebos.com/PP-OCRv2/chinese/ch_PP-OCRv2_det_distill_train.tar --no-check-certificate
         cd ./pretrain_models/ && tar xf ch_PP-OCRv2_det_distill_train.tar && cd ../
@@ -366,7 +388,7 @@ elif [ ${MODE} = "whole_infer" ];then
     python_name_list=$(func_parser_value "${lines[2]}")
     array=(${python_name_list}) 
     python_name=${array[0]}
-    ${python_name} -m pip install paddleslim --force-reinstall
+    ${python_name} -m pip install paddleslim
     ${python_name} -m pip install -r requirements.txt
     wget -nc -P ./inference https://paddleocr.bj.bcebos.com/dygraph_v2.0/test/ch_det_data_50.tar --no-check-certificate
     wget -nc -P ./inference/ https://paddleocr.bj.bcebos.com/dygraph_v2.0/test/rec_inference.tar --no-check-certificate

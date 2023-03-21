@@ -11,7 +11,8 @@ Global:
   save_inference_dir:
   use_visualdl: False
   seed: 2022
-  infer_img: abc.jpg
+  infer_img: test.jpg
+  d2s_train_image_shape: [3, 224, 224]
   # if you want to predict using the groundtruth ocr info,
   # you can use the following config
   # infer_img: train_data/XFUND/zh_val/val.json
@@ -53,7 +54,7 @@ Optimizer:
     
 PostProcess:
   name: VQASerTokenLayoutLMPostProcess
-  class_path: &class_path train_data/FUNSD/class_list.txt
+  class_path: &class_path train_data/XFUND/class_list.txt
 
 Metric:
   name: VQASerTokenMetric

@@ -30,6 +30,7 @@ Supported text detection algorithms (Click the link to get the tutorial):
 - [x]  [PSENet](./algorithm_det_psenet_en.md)
 - [x]  [FCENet](./algorithm_det_fcenet_en.md)
 - [x]  [DRRG](./algorithm_det_drrg_en.md)
+- [x]  [CT](./algorithm_det_ct_en.md)
 
 On the ICDAR2015 dataset, the text detection result is as follows:
 
@@ -49,6 +50,7 @@ On Total-Text dataset, the text detection result is as follows:
 |Model|Backbone|Precision|Recall|Hmean|Download link|
 | --- | --- | --- | --- | --- | --- |
 |SAST|ResNet50_vd|89.63%|78.44%|83.66%|[trained model](https://paddleocr.bj.bcebos.com/dygraph_v2.0/en/det_r50_vd_sast_totaltext_v2.0_train.tar)|
+|CT|ResNet18_vd|88.68%|81.70%|85.05%|[trained model](https://paddleocr.bj.bcebos.com/dygraph_v2.0/en/det_r18_ct_train.tar)|
 
 On CTW1500 dataset, the text detection result is as follows:
 
@@ -99,7 +101,7 @@ Refer to [DTRB](https://arxiv.org/abs/1904.01906), the training and evaluation r
 |SAR|Resnet31| 87.20% | rec_r31_sar | [trained model](https://paddleocr.bj.bcebos.com/dygraph_v2.1/rec/rec_r31_sar_train.tar) |
 |SEED|Aster_Resnet| 85.35% | rec_resnet_stn_bilstm_att | [trained model](https://paddleocr.bj.bcebos.com/dygraph_v2.1/rec/rec_resnet_stn_bilstm_att.tar) |
 |SVTR|SVTR-Tiny| 89.25% | rec_svtr_tiny_none_ctc_en | [trained model](https://paddleocr.bj.bcebos.com/PP-OCRv3/chinese/rec_svtr_tiny_none_ctc_en_train.tar) |
-|ViTSTR|ViTSTR| 79.82% | rec_vitstr_none_ce | [trained model](https://paddleocr.bj.bcebos.com/rec_vitstr_none_ce_train.tar) |
+|ViTSTR|ViTSTR| 79.82% | rec_vitstr_none_ce | [trained model](https://paddleocr.bj.bcebos.com/rec_vitstr_none_none_train.tar) |
 |ABINet|Resnet45| 90.75% | rec_r45_abinet | [trained model](https://paddleocr.bj.bcebos.com/rec_r45_abinet_train.tar) |
 |VisionLAN|Resnet45| 90.30% | rec_r45_visionlan | [trained model](https://paddleocr.bj.bcebos.com/VisionLAN/rec_r45_visionlan_train.tar) |
 |SPIN|ResNet32| 90.00% | rec_r32_gaspin_bilstm_att | [trained model](https://paddleocr.bj.bcebos.com/contribution/rec_r32_gaspin_bilstm_att.tar) |
