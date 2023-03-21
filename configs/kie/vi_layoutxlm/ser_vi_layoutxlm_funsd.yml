@@ -54,7 +54,7 @@ Optimizer:
     
 PostProcess:
   name: VQASerTokenLayoutLMPostProcess
-  class_path: &class_path train_data/XFUND/class_list.txt
+  class_path: &class_path train_data/FUNSD/class_list.txt
 
 Metric:
   name: VQASerTokenMetric
