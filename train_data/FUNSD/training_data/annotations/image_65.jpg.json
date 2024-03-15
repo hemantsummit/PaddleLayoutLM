@@ -1,0 +1,314 @@
+[
+    {
+        "transcription": "NEVADA",
+        "label": 0,
+        "points": [
+            36.333333333333336,
+            5.75,
+            68.16666666666667,
+            16.75
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "USA",
+        "label": 0,
+        "points": [
+            89.16666666666667,
+            6.75,
+            94.83333333333334,
+            10.75
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "NV",
+        "label": 0,
+        "points": [
+            90.16666666666667,
+            11,
+            94.16666666666667,
+            15
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "DRIVERLICENSE",
+        "label": 0,
+        "points": [
+            45.833333333333336,
+            27.5,
+            79.5,
+            32.0
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "1-SAMPLE",
+        "label": 4,
+        "points": [
+            29.666666666666668,
+            36.5,
+            44.833333333333336,
+            41.0
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "2JELANI",
+        "label": 3,
+        "points": [
+            29.666666666666668,
+            41.5,
+            43.16666666666667,
+            46.0
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "8123 SAMPLE DRIVE",
+        "label": 2,
+        "points": [
+            29.5,
+            47,
+            55.0,
+            51.25
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "APT.12",
+        "label": 2,
+        "points": [
+            31.5,
+            51.5,
+            40.666666666666664,
+            55.25
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "ANYTOWN,NV 12345-00000",
+        "label": 2,
+        "points": [
+            31.5,
+            55.75,
+            64.0,
+            59.5
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "15 Sex M16Hgt 603",
+        "label": 0,
+        "points": [
+            29.166666666666668,
+            59,
+            56.0,
+            63.5
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "g180",
+        "label": 0,
+        "points": [
+            54.833333333333336,
+            58.75,
+            68.5,
+            63.25
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "Eyes BRO",
+        "label": 0,
+        "points": [
+            72.83333333333333,
+            59.25,
+            84.16666666666666,
+            63.0
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "9Class A",
+        "label": 0,
+        "points": [
+            29.333333333333332,
+            64.75,
+            40.666666666666664,
+            68.5
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "9a End",
+        "label": 0,
+        "points": [
+            47.166666666666664,
+            64.5,
+            55.666666666666664,
+            68.25
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "BLK 4a Iss 07/011200",
+        "label": 0,
+        "points": [
+            70.66666666666667,
+            64.5,
+            93.83333333333334,
+            68.25
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "12 Restr A",
+        "label": 0,
+        "points": [
+            29.333333333333332,
+            68.5,
+            40.5,
+            72.0
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "DD 000117739340094130447",
+        "label": 0,
+        "points": [
+            61.5,
+            68.5,
+            89.83333333333333,
+            72.25
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "4d DL NO",
+        "label": 0,
+        "points": [
+            41.166666666666664,
+            75.5,
+            51.166666666666664,
+            80.0
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "123456789123",
+        "label": 0,
+        "points": [
+            53.5,
+            73.75,
+            79.83333333333333,
+            79.0
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "VETERAN",
+        "label": 0,
+        "points": [
+            82.83333333333333,
+            73.5,
+            93.83333333333333,
+            76.25
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "elaniSampl",
+        "label": 0,
+        "points": [
+            8,
+            80.75,
+            32,
+            88.75
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "1",
+        "label": 1,
+        "points": [
+            43.833333333333336,
+            82,
+            48.833333333333336,
+            85.75
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "07101/1954",
+        "label": 1,
+        "points": [
+            53,
+            80,
+            73.33333333333333,
+            85.25
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "3",
+        "label": 0,
+        "points": [
+            41.5,
+            82.75,
+            43.666666666666664,
+            85.0
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "4b Exp",
+        "label": 0,
+        "points": [
+            41.166666666666664,
+            88,
+            48.0,
+            92
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "0710112022",
+        "label": 0,
+        "points": [
+            53.166666666666664,
+            86,
+            73.16666666666666,
+            91.5
+        ],
+        "id": 0,
+        "linking": []
+    }
+]

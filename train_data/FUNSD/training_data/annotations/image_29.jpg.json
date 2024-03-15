@@ -1,0 +1,458 @@
+[
+    {
+        "transcription": "GEORGIA",
+        "label": 0,
+        "points": [
+            1.6666666666666667,
+            4.75,
+            30.666666666666668,
+            11.75
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "DL",
+        "label": 0,
+        "points": [
+            79.66666666666667,
+            6.25,
+            85.0,
+            11.5
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "USA",
+        "label": 0,
+        "points": [
+            94.16666666666667,
+            4.5,
+            98.83333333333334,
+            7.75
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "GA",
+        "label": 0,
+        "points": [
+            95.5,
+            7.25,
+            98.66666666666667,
+            10.5
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "DRIVERSLICENSE",
+        "label": 0,
+        "points": [
+            2.1666666666666665,
+            12.25,
+            23.833333333333336,
+            15.5
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "DRIVERSLICENSE",
+        "label": 0,
+        "points": [
+            44,
+            11.5,
+            73.66666666666667,
+            15.0
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "Governor:",
+        "label": 0,
+        "points": [
+            2.6666666666666665,
+            18.5,
+            14.0,
+            22.25
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "B:Ph",
+        "label": 0,
+        "points": [
+            13.333333333333334,
+            17.25,
+            21.666666666666668,
+            24.0
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "4a DLNO.999999999",
+        "label": 0,
+        "points": [
+            32.833333333333336,
+            18.5,
+            64.0,
+            23.25
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "3DOB",
+        "label": 1,
+        "points": [
+            65.83333333333333,
+            19.5,
+            74.33333333333333,
+            23.25
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "02/22/1954",
+        "label": 1,
+        "points": [
+            75.66666666666667,
+            18.75,
+            93.0,
+            23.25
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "9",
+        "label": 0,
+        "points": [
+            33,
+            25.5,
+            36.5,
+            28.75
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "CLASs C",
+        "label": 0,
+        "points": [
+            36,
+            24,
+            47.666666666666664,
+            28.5
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "4b EXP",
+        "label": 0,
+        "points": [
+            66.16666666666667,
+            24.75,
+            75.0,
+            29.25
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "02/22/2028",
+        "label": 0,
+        "points": [
+            75.5,
+            24.25,
+            92.66666666666667,
+            28.75
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "2",
+        "label": 0,
+        "points": [
+            32.833333333333336,
+            31,
+            36.833333333333336,
+            34
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "IMA GEORGIA",
+        "label": 4,
+        "points": [
+            35.833333333333336,
+            30.25,
+            55.66666666666667,
+            34.75
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "SAMPLE",
+        "label": 3,
+        "points": [
+            36.166666666666664,
+            35.5,
+            49.166666666666664,
+            39.75
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "123MAINSTREET",
+        "label": 2,
+        "points": [
+            37,
+            46.25,
+            60.83333333333333,
+            49.75
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "ANYTOWN,GA 39999",
+        "label": 2,
+        "points": [
+            36.833333333333336,
+            50.5,
+            65.16666666666667,
+            54.25
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "ANYCOUNTY",
+        "label": 2,
+        "points": [
+            36.666666666666664,
+            54.25,
+            54.5,
+            58.5
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "12 REST NONE",
+        "label": 0,
+        "points": [
+            32.833333333333336,
+            59,
+            53.0,
+            63.75
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "9a END",
+        "label": 0,
+        "points": [
+            32.833333333333336,
+            64.5,
+            42.0,
+            68.75
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "NONE",
+        "label": 0,
+        "points": [
+            43.666666666666664,
+            64,
+            53.0,
+            68.75
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "4aIss",
+        "label": 0,
+        "points": [
+            33.166666666666664,
+            70.5,
+            40.666666666666664,
+            74.25
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "02/22/2018",
+        "label": 0,
+        "points": [
+            43.833333333333336,
+            69,
+            61.333333333333336,
+            74.25
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "15SEX",
+        "label": 0,
+        "points": [
+            33,
+            75.75,
+            41.5,
+            79.5
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "F",
+        "label": 0,
+        "points": [
+            43.833333333333336,
+            75,
+            46.16666666666667,
+            79
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "18 EYES",
+        "label": 0,
+        "points": [
+            56.333333333333336,
+            75.5,
+            66.0,
+            79.25
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "BRO",
+        "label": 0,
+        "points": [
+            68.5,
+            75.25,
+            75.33333333333333,
+            79.25
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "16 HGT",
+        "label": 0,
+        "points": [
+            33,
+            81.25,
+            41.833333333333336,
+            85.0
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "5-05",
+        "label": 0,
+        "points": [
+            43.833333333333336,
+            80.25,
+            52.833333333333336,
+            85.0
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "17WGT",
+        "label": 0,
+        "points": [
+            56.166666666666664,
+            80.75,
+            65.5,
+            85.25
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "165Ib",
+        "label": 0,
+        "points": [
+            68.33333333333333,
+            80.25,
+            77.33333333333333,
+            85.0
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "asnofe",
+        "label": 0,
+        "points": [
+            17.333333333333332,
+            83,
+            30.833333333333332,
+            87.5
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "XTRANSPORTATION",
+        "label": 0,
+        "points": [
+            33,
+            86,
+            55.5,
+            89.5
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "5 DD12345678901234567890",
+        "label": 0,
+        "points": [
+            1,
+            91,
+            35.666666666666664,
+            94.5
+        ],
+        "id": 0,
+        "linking": []
+    },
+    {
+        "transcription": "ORGAN DONOR",
+        "label": 0,
+        "points": [
+            44,
+            90.5,
+            65.5,
+            95.0
+        ],
+        "id": 0,
+        "linking": []
+    }
+]
