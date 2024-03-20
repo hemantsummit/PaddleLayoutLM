@@ -1,7 +1,7 @@
 [
     {
         "transcription": "Delawvare",
-        "label": 0,
+        "label": "other",
         "points": [
             6.666666666666667,
             9.736842105263158,
@@ -13,7 +13,7 @@
     },
     {
         "transcription": "DRIVERLICENSE",
-        "label": 0,
+        "label": "other",
         "points": [
             47.333333333333336,
             11.578947368421053,
@@ -25,7 +25,7 @@
     },
     {
         "transcription": "DLN",
-        "label": 0,
+        "label": "other",
         "points": [
             35.166666666666664,
             26.57894736842105,
@@ -37,7 +37,7 @@
     },
     {
         "transcription": "98765438",
-        "label": 0,
+        "label": "other",
         "points": [
             44.833333333333336,
             25.526315789473685,
@@ -49,7 +49,7 @@
     },
     {
         "transcription": "Class",
-        "label": 0,
+        "label": "other",
         "points": [
             34.666666666666664,
             31.31578947368421,
@@ -61,7 +61,7 @@
     },
     {
         "transcription": "D",
-        "label": 0,
+        "label": "other",
         "points": [
             45,
             31.31578947368421,
@@ -73,7 +73,7 @@
     },
     {
         "transcription": "1ss03/15/2018",
-        "label": 0,
+        "label": "other",
         "points": [
             35,
             36.05263157894737,
@@ -85,7 +85,7 @@
     },
     {
         "transcription": "04/30/2022",
-        "label": 0,
+        "label": "other",
         "points": [
             69.5,
             35.26315789473684,
@@ -97,7 +97,7 @@
     },
     {
         "transcription": "1.SAMPLE",
-        "label": 4,
+        "label": "4",
         "points": [
             35.166666666666664,
             42.10526315789474,
@@ -109,7 +109,7 @@
     },
     {
         "transcription": "JANICE",
-        "label": 3,
+        "label": "3",
         "points": [
             35.166666666666664,
             46.578947368421055,
@@ -121,7 +121,7 @@
     },
     {
         "transcription": "2230HESSLER BOULEVARD",
-        "label": 2,
+        "label": "2",
         "points": [
             37.833333333333336,
             52.10526315789474,
@@ -133,7 +133,7 @@
     },
     {
         "transcription": "NEWCASTLEDL19720-0000",
-        "label": 2,
+        "label": "2",
         "points": [
             38.166666666666664,
             55.78947368421053,
@@ -145,7 +145,7 @@
     },
     {
         "transcription": "155ex 16Hgt17Wgt",
-        "label": 0,
+        "label": "other",
         "points": [
             35.333333333333336,
             64.73684210526316,
@@ -157,7 +157,7 @@
     },
     {
         "transcription": "sEyes",
-        "label": 0,
+        "label": "other",
         "points": [
             59.833333333333336,
             65.26315789473684,
@@ -169,7 +169,7 @@
     },
     {
         "transcription": "1",
-        "label": 1,
+        "label": "1",
         "points": [
             75.33333333333333,
             65,
@@ -181,7 +181,7 @@
     },
     {
         "transcription": "504125IbBRO",
-        "label": 0,
+        "label": "other",
         "points": [
             45.5,
             68.6842105263158,
@@ -193,7 +193,7 @@
     },
     {
         "transcription": "04/30/1970",
-        "label": 1,
+        "label": "1",
         "points": [
             75.66666666666667,
             67.89473684210526,
@@ -205,7 +205,7 @@
     },
     {
         "transcription": "12 Restrictions",
-        "label": 0,
+        "label": "other",
         "points": [
             40.5,
             73.6842105263158,
@@ -217,7 +217,7 @@
     },
     {
         "transcription": "NONE",
-        "label": 0,
+        "label": "other",
         "points": [
             43.333333333333336,
             77.36842105263158,
@@ -229,7 +229,7 @@
     },
     {
         "transcription": "Tamice Lamol",
-        "label": 0,
+        "label": "other",
         "points": [
             6.333333333333333,
             80.52631578947368,
@@ -241,7 +241,7 @@
     },
     {
         "transcription": "End NONE",
-        "label": 0,
+        "label": "other",
         "points": [
             40.166666666666664,
             81.05263157894737,
@@ -253,7 +253,7 @@
     },
     {
         "transcription": "0023456789012345",
-        "label": 0,
+        "label": "other",
         "points": [
             43.166666666666664,
             86.57894736842105,

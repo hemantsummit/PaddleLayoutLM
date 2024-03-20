@@ -1,7 +1,7 @@
 [
     {
         "transcription": "DRIVER LICENSE",
-        "label": 0,
+        "label": "other",
         "points": [
             4.833333333333333,
             7.614213197969543,
@@ -13,7 +13,7 @@
     },
     {
         "transcription": "WISCONSIN",
-        "label": 0,
+        "label": "other",
         "points": [
             41.166666666666664,
             10.406091370558375,
@@ -25,7 +25,7 @@
     },
     {
         "transcription": "USA",
-        "label": 0,
+        "label": "other",
         "points": [
             70.5,
             7.868020304568528,
@@ -37,7 +37,7 @@
     },
     {
         "transcription": "REGULAR",
-        "label": 0,
+        "label": "other",
         "points": [
             8.666666666666666,
             12.944162436548224,
@@ -49,7 +49,7 @@
     },
     {
         "transcription": "4aS123-4567-6501-00",
-        "label": 0,
+        "label": "other",
         "points": [
             33,
             22.081218274111674,
@@ -61,7 +61,7 @@
     },
     {
         "transcription": "9CLASs D",
-        "label": 0,
+        "label": "other",
         "points": [
             70.83333333333333,
             21.31979695431472,
@@ -73,7 +73,7 @@
     },
     {
         "transcription": "SAMPLE",
-        "label": 4,
+        "label": "4",
         "points": [
             34.666666666666664,
             26.395939086294415,
@@ -85,7 +85,7 @@
     },
     {
         "transcription": "DEREK THOMAS",
-        "label": 3,
+        "label": "3",
         "points": [
             34,
             31.725888324873097,
@@ -97,7 +97,7 @@
     },
     {
         "transcription": "84802 SHEBOYGAN AVE",
-        "label": 2,
+        "label": "2",
         "points": [
             33.833333333333336,
             41.878172588832484,
@@ -109,7 +109,7 @@
     },
     {
         "transcription": "MADISON.WI 53705",
-        "label": 2,
+        "label": "2",
         "points": [
             35.5,
             45.431472081218274,
@@ -121,7 +121,7 @@
     },
     {
         "transcription": "15SEXM",
-        "label": 0,
+        "label": "other",
         "points": [
             33.166666666666664,
             67.51269035532995,
@@ -133,7 +133,7 @@
     },
     {
         "transcription": "16HGT",
-        "label": 0,
+        "label": "other",
         "points": [
             50.166666666666664,
             68.52791878172589,
@@ -145,7 +145,7 @@
     },
     {
         "transcription": "6-02",
-        "label": 0,
+        "label": "other",
         "points": [
             57.5,
             68.02030456852792,
@@ -157,7 +157,7 @@
     },
     {
         "transcription": "17WGT 210 Ib",
-        "label": 0,
+        "label": "other",
         "points": [
             33,
             71.8274111675127,
@@ -169,7 +169,7 @@
     },
     {
         "transcription": "18EYES BRO",
-        "label": 0,
+        "label": "other",
         "points": [
             49.666666666666664,
             72.33502538071066,
@@ -181,7 +181,7 @@
     },
     {
         "transcription": "19.HAIR BLK",
-        "label": 0,
+        "label": "other",
         "points": [
             33,
             76.39593908629442,
@@ -193,7 +193,7 @@
     },
     {
         "transcription": "4aISS",
-        "label": 0,
+        "label": "other",
         "points": [
             58.833333333333336,
             77.91878172588832,
@@ -205,7 +205,7 @@
     },
     {
         "transcription": "10/31/2015",
-        "label": 0,
+        "label": "other",
         "points": [
             65.33333333333333,
             77.41116751269035,
@@ -217,7 +217,7 @@
     },
     {
         "transcription": "3DOB 02/11/1974",
-        "label": 1,
+        "label": "1",
         "points": [
             33.666666666666664,
             81.47208121827411,
@@ -229,7 +229,7 @@
     },
     {
         "transcription": "4bEXP02/11/2023",
-        "label": 0,
+        "label": "other",
         "points": [
             58.5,
             81.7258883248731,
@@ -241,7 +241,7 @@
     },
     {
         "transcription": "DONOR",
-        "label": 0,
+        "label": "other",
         "points": [
             85.66666666666667,
             81.47208121827411,
@@ -253,7 +253,7 @@
     },
     {
         "transcription": "FEBY4",
-        "label": 0,
+        "label": "other",
         "points": [
             10.666666666666666,
             86.80203045685279,
@@ -265,7 +265,7 @@
     },
     {
         "transcription": "9aEND NONE",
-        "label": 0,
+        "label": "other",
         "points": [
             32.666666666666664,
             86.04060913705584,
@@ -277,7 +277,7 @@
     },
     {
         "transcription": "5 DDOTNJR2015103118143618",
-        "label": 0,
+        "label": "other",
         "points": [
             59.5,
             87.30964467005076,

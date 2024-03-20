@@ -1,7 +1,7 @@
 [
     {
         "transcription": "Shlahama",
-        "label": 0,
+        "label": "other",
         "points": [
             24.166666666666668,
             2.1621621621621623,
@@ -13,7 +13,7 @@
     },
     {
         "transcription": "IETERAN",
-        "label": 0,
+        "label": "other",
         "points": [
             0.6666666666666666,
             13.513513513513514,
@@ -25,7 +25,7 @@
     },
     {
         "transcription": "DriverLicense",
-        "label": 0,
+        "label": "other",
         "points": [
             36.833333333333336,
             13.513513513513514,
@@ -37,7 +37,7 @@
     },
     {
         "transcription": "Lic.No",
-        "label": 0,
+        "label": "other",
         "points": [
             65.5,
             20.81081081081081,
@@ -49,7 +49,7 @@
     },
     {
         "transcription": "B000062835",
-        "label": 0,
+        "label": "other",
         "points": [
             73.33333333333333,
             19.18918918918919,
@@ -61,7 +61,7 @@
     },
     {
         "transcription": "TSAMPI",
-        "label": 0,
+        "label": "other",
         "points": [
             0.6666666666666666,
             25.945945945945947,
@@ -73,7 +73,7 @@
     },
     {
         "transcription": "D",
-        "label": 0,
+        "label": "other",
         "points": [
             38.833333333333336,
             25.945945945945947,
@@ -85,7 +85,7 @@
     },
     {
         "transcription": "DOB:01/01/1980",
-        "label": 1,
+        "label": "1",
         "points": [
             70.5,
             25.405405405405407,
@@ -97,7 +97,7 @@
     },
     {
         "transcription": "10/24/2012",
-        "label": 0,
+        "label": "other",
         "points": [
             36,
             32.16216216216216,
@@ -109,7 +109,7 @@
     },
     {
         "transcription": "Exp:61/01/2014",
-        "label": 0,
+        "label": "other",
         "points": [
             71.66666666666667,
             33.24324324324324,
@@ -121,7 +121,7 @@
     },
     {
         "transcription": "RestrNONE",
-        "label": 0,
+        "label": "other",
         "points": [
             31.166666666666668,
             38.91891891891892,
@@ -133,7 +133,7 @@
     },
     {
         "transcription": "EndNONE",
-        "label": 0,
+        "label": "other",
         "points": [
             71.16666666666667,
             38.91891891891892,
@@ -145,7 +145,7 @@
     },
     {
         "transcription": "SAMPLE",
-        "label": 4,
+        "label": "4",
         "points": [
             31.666666666666668,
             46.486486486486484,
@@ -157,7 +157,7 @@
     },
     {
         "transcription": "SALLY ANN",
-        "label": 3,
+        "label": "3",
         "points": [
             31.666666666666668,
             51.62162162162162,
@@ -169,7 +169,7 @@
     },
     {
         "transcription": "-",
-        "label": 0,
+        "label": "other",
         "points": [
             28.833333333333332,
             55.4054054054054,
@@ -181,7 +181,7 @@
     },
     {
         "transcription": "SAMPLECARDINOTA DL",
-        "label": 2,
+        "label": "2",
         "points": [
             32,
             58.91891891891892,
@@ -193,7 +193,7 @@
     },
     {
         "transcription": "OKLAHOMA CITY.OK73111-0000",
-        "label": 2,
+        "label": "2",
         "points": [
             31.833333333333332,
             64.32432432432432,
@@ -205,7 +205,7 @@
     },
     {
         "transcription": "B000062835",
-        "label": 0,
+        "label": "other",
         "points": [
             67,
             71.08108108108108,
@@ -217,7 +217,7 @@
     },
     {
         "transcription": "DL",
-        "label": 0,
+        "label": "other",
         "points": [
             83.33333333333333,
             78.37837837837837,
@@ -229,7 +229,7 @@
     },
     {
         "transcription": "Wat",
-        "label": 0,
+        "label": "other",
         "points": [
             53.5,
             81.89189189189189,
@@ -241,7 +241,7 @@
     },
     {
         "transcription": "5-03114IbBLU",
-        "label": 0,
+        "label": "other",
         "points": [
             36.166666666666664,
             85.4054054054054,

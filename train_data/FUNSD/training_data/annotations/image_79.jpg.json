@@ -1,7 +1,7 @@
 [
     {
         "transcription": "Ohio",
-        "label": 0,
+        "label": "other",
         "points": [
             4.666666666666667,
             5.2631578947368425,
@@ -13,7 +13,7 @@
     },
     {
         "transcription": "DRIVERLICENSE",
-        "label": 0,
+        "label": "other",
         "points": [
             26,
             8.947368421052632,
@@ -25,7 +25,7 @@
     },
     {
         "transcription": "Lepe.",
-        "label": 0,
+        "label": "other",
         "points": [
             46.333333333333336,
             4.2105263157894735,
@@ -37,7 +37,7 @@
     },
     {
         "transcription": "EDERALID",
-        "label": 0,
+        "label": "other",
         "points": [
             71.66666666666667,
             8.947368421052632,
@@ -49,7 +49,7 @@
     },
     {
         "transcription": "NOTFOR",
-        "label": 0,
+        "label": "other",
         "points": [
             72.33333333333333,
             5.2631578947368425,
@@ -61,7 +61,7 @@
     },
     {
         "transcription": "USn",
-        "label": 0,
+        "label": "other",
         "points": [
             16.666666666666668,
             15.263157894736842,
@@ -73,7 +73,7 @@
     },
     {
         "transcription": "AB123456",
-        "label": 0,
+        "label": "other",
         "points": [
             35.333333333333336,
             18.94736842105263,
@@ -85,7 +85,7 @@
     },
     {
         "transcription": "DOE",
-        "label": 4,
+        "label": "4",
         "points": [
             34.666666666666664,
             25.263157894736842,
@@ -97,7 +97,7 @@
     },
     {
         "transcription": "JANE",
-        "label": 3,
+        "label": "3",
         "points": [
             37,
             30.526315789473685,
@@ -109,7 +109,7 @@
     },
     {
         "transcription": "123ANYWHERE ST",
-        "label": 2,
+        "label": "2",
         "points": [
             34,
             35.78947368421053,
@@ -121,7 +121,7 @@
     },
     {
         "transcription": "ANYTOWNOH 12345",
-        "label": 2,
+        "label": "2",
         "points": [
             36.76218787158145,
             42.29300957506728,
@@ -133,7 +133,7 @@
     },
     {
         "transcription": "01-21-2021",
-        "label": 0,
+        "label": "other",
         "points": [
             34.666666666666664,
             50,
@@ -145,7 +145,7 @@
     },
     {
         "transcription": "5-02 BLU",
-        "label": 0,
+        "label": "other",
         "points": [
             40.333333333333336,
             70,
@@ -157,7 +157,7 @@
     },
     {
         "transcription": "07-02-2018",
-        "label": 0,
+        "label": "other",
         "points": [
             41.333333333333336,
             77.36842105263158,
@@ -169,7 +169,7 @@
     },
     {
         "transcription": "AB123456",
-        "label": 0,
+        "label": "other",
         "points": [
             67.33333333333333,
             72.63157894736842,
@@ -181,7 +181,7 @@
     },
     {
         "transcription": "Jane Do",
-        "label": 0,
+        "label": "other",
         "points": [
             11.333333333333334,
             80.52631578947368,
@@ -193,7 +193,7 @@
     },
     {
         "transcription": "Z1234587",
-        "label": 0,
+        "label": "other",
         "points": [
             34.333333333333336,
             82.63157894736842,
@@ -205,7 +205,7 @@
     },
     {
         "transcription": "09-16-1990",
-        "label": 0,
+        "label": "other",
         "points": [
             67,
             80.52631578947368,
@@ -217,7 +217,7 @@
     },
     {
         "transcription": "09-16-1990",
-        "label": 1,
+        "label": "1",
         "points": [
             7.333333333333333,
             89.47368421052632,

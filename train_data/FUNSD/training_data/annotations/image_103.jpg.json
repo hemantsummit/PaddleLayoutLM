@@ -1,7 +1,7 @@
 [
     {
         "transcription": "DRIVERLICENSE",
-        "label": 0,
+        "label": "other",
         "points": [
             61.55555555555556,
             9.523809523809524,
@@ -13,7 +13,7 @@
     },
     {
         "transcription": "FEDERALLIMITS APPLY",
-        "label": 0,
+        "label": "other",
         "points": [
             57.55555555555556,
             16.3265306122449,
@@ -25,7 +25,7 @@
     },
     {
         "transcription": "4aLIC#WDLABCD456DG gCLASS",
-        "label": 0,
+        "label": "other",
         "points": [
             33.333333333333336,
             22.789115646258505,
@@ -37,7 +37,7 @@
     },
     {
         "transcription": "DONOR",
-        "label": 0,
+        "label": "other",
         "points": [
             84,
             22.448979591836736,
@@ -49,7 +49,7 @@
     },
     {
         "transcription": "SAMPLE",
-        "label": 4,
+        "label": "4",
         "points": [
             32.666666666666664,
             27.551020408163264,
@@ -61,7 +61,7 @@
     },
     {
         "transcription": "2JOHNA",
-        "label": 3,
+        "label": "3",
         "points": [
             32.888888888888886,
             33.333333333333336,
@@ -73,7 +73,7 @@
     },
     {
         "transcription": "3DOB01/06/1958",
-        "label": 1,
+        "label": "1",
         "points": [
             33.333333333333336,
             44.21768707482993,
@@ -85,7 +85,7 @@
     },
     {
         "transcription": "4alss01/06/2015",
-        "label": 0,
+        "label": "other",
         "points": [
             69.77777777777777,
             44.5578231292517,
@@ -97,7 +97,7 @@
     },
     {
         "transcription": "123 STREETADDRESS",
-        "label": 2,
+        "label": "2",
         "points": [
             33.55555555555556,
             51.36054421768708,
@@ -109,7 +109,7 @@
     },
     {
         "transcription": "YOUR CITY WA 99999-1234",
-        "label": 2,
+        "label": "2",
         "points": [
             35.55555555555556,
             55.4421768707483,
@@ -121,7 +121,7 @@
     },
     {
         "transcription": "15 SEXM",
-        "label": 0,
+        "label": "other",
         "points": [
             41.111111111111114,
             63.945578231292515,
@@ -133,7 +133,7 @@
     },
     {
         "transcription": "18 EYES BLU",
-        "label": 0,
+        "label": "other",
         "points": [
             65.11111111111111,
             63.265306122448976,
@@ -145,7 +145,7 @@
     },
     {
         "transcription": "16 HGT5-08",
-        "label": 0,
+        "label": "other",
         "points": [
             41.111111111111114,
             68.02721088435374,
@@ -157,7 +157,7 @@
     },
     {
         "transcription": "17 WGT 165 Ib",
-        "label": 0,
+        "label": "other",
         "points": [
             64.88888888888889,
             68.02721088435374,
@@ -169,7 +169,7 @@
     },
     {
         "transcription": "12 RESTRICTIONS 9 END L",
-        "label": 0,
+        "label": "other",
         "points": [
             40.888888888888886,
             72.44897959183673,
@@ -181,7 +181,7 @@
     },
     {
         "transcription": "B",
-        "label": 0,
+        "label": "other",
         "points": [
             51.55555555555556,
             78.2312925170068,
@@ -193,7 +193,7 @@
     },
     {
         "transcription": "4b EXP08/12/2020",
-        "label": 0,
+        "label": "other",
         "points": [
             64.44444444444444,
             77.21088435374149,
@@ -205,7 +205,7 @@
     },
     {
         "transcription": "4ohmASampl",
-        "label": 0,
+        "label": "other",
         "points": [
             3.5555555555555554,
             87.41496598639456,
@@ -217,7 +217,7 @@
     },
     {
         "transcription": "5DDWDLABCD456DG1234567XX1101",
-        "label": 0,
+        "label": "other",
         "points": [
             31.333333333333332,
             88.0952380952381,
@@ -229,7 +229,7 @@
     },
     {
         "transcription": "Veteran",
-        "label": 0,
+        "label": "other",
         "points": [
             86.22222222222223,
             87.75510204081633,
@@ -241,7 +241,7 @@
     },
     {
         "transcription": "REV 07/01/2018",
-        "label": 0,
+        "label": "other",
         "points": [
             81.11111111111111,
             92.85714285714286,

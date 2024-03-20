@@ -1,7 +1,7 @@
 [
     {
         "transcription": "DRIVER LICENSE",
-        "label": 0,
+        "label": "other",
         "points": [
             51,
             8.753315649867375,
@@ -13,7 +13,7 @@
     },
     {
         "transcription": "USA",
-        "label": 0,
+        "label": "other",
         "points": [
             89.83333333333333,
             7.161803713527852,
@@ -25,7 +25,7 @@
     },
     {
         "transcription": "CLASSD",
-        "label": 0,
+        "label": "other",
         "points": [
             39.666666666666664,
             26.25994694960212,
@@ -37,7 +37,7 @@
     },
     {
         "transcription": "4DLN D08954796",
-        "label": 0,
+        "label": "other",
         "points": [
             64.5,
             27.851458885941646,
@@ -49,7 +49,7 @@
     },
     {
         "transcription": " END NONE",
-        "label": 0,
+        "label": "other",
         "points": [
             36.333333333333336,
             30.50397877984085,
@@ -61,7 +61,7 @@
     },
     {
         "transcription": "12REST B",
-        "label": 0,
+        "label": "other",
         "points": [
             36.833333333333336,
             35.80901856763926,
@@ -73,7 +73,7 @@
     },
     {
         "transcription": "3",
-        "label": 0,
+        "label": "other",
         "points": [
             65,
             36.60477453580902,
@@ -85,7 +85,7 @@
     },
     {
         "transcription": "DOB01/01/1974",
-        "label": 1,
+        "label": "1",
         "points": [
             67,
             34.48275862068966,
@@ -97,7 +97,7 @@
     },
     {
         "transcription": "SAMPLE",
-        "label": 4,
+        "label": "4",
         "points": [
             40,
             41.37931034482759,
@@ -109,7 +109,7 @@
     },
     {
         "transcription": "JELANI",
-        "label": 3,
+        "label": "3",
         "points": [
             40,
             46.94960212201592,
@@ -121,7 +121,7 @@
     },
     {
         "transcription": "123MAIN ST",
-        "label": 2,
+        "label": "2",
         "points": [
             40.333333333333336,
             52.51989389920424,
@@ -133,7 +133,7 @@
     },
     {
         "transcription": "PHOENIX,AZ85007",
-        "label": 2,
+        "label": "2",
         "points": [
             40.333333333333336,
             56.49867374005305,
@@ -145,7 +145,7 @@
     },
     {
         "transcription": "bEXP03/01/2024",
-        "label": 0,
+        "label": "other",
         "points": [
             36.666666666666664,
             63.92572944297082,
@@ -157,7 +157,7 @@
     },
     {
         "transcription": "4aISs03/01/2016",
-        "label": 0,
+        "label": "other",
         "points": [
             64,
             64.19098143236074,
@@ -169,7 +169,7 @@
     },
     {
         "transcription": "15SEXM",
-        "label": 0,
+        "label": "other",
         "points": [
             36.833333333333336,
             71.61803713527851,
@@ -181,7 +181,7 @@
     },
     {
         "transcription": "1EYESBRO",
-        "label": 0,
+        "label": "other",
         "points": [
             55.666666666666664,
             71.88328912466844,
@@ -193,7 +193,7 @@
     },
     {
         "transcription": "VETERAN",
-        "label": 0,
+        "label": "other",
         "points": [
             74.66666666666667,
             71.35278514588859,
@@ -205,7 +205,7 @@
     },
     {
         "transcription": "16 HGT5-09",
-        "label": 0,
+        "label": "other",
         "points": [
             36.833333333333336,
             75.59681697612731,
@@ -217,7 +217,7 @@
     },
     {
         "transcription": "19HAIRBRO",
-        "label": 0,
+        "label": "other",
         "points": [
             53.333333333333336,
             76.12732095490716,
@@ -229,7 +229,7 @@
     },
     {
         "transcription": "17 WGT 185 Ib",
-        "label": 0,
+        "label": "other",
         "points": [
             36.666666666666664,
             79.84084880636605,
@@ -241,7 +241,7 @@
     },
     {
         "transcription": "01/01/74",
-        "label": 1,
+        "label": "1",
         "points": [
             76.33333333333333,
             81.16710875331565,
@@ -253,7 +253,7 @@
     },
     {
         "transcription": "DONOR",
-        "label": 0,
+        "label": "other",
         "points": [
             40.333333333333336,
             85.94164456233422,
@@ -265,7 +265,7 @@
     },
     {
         "transcription": "5 DD 9001A9691S1421J4",
-        "label": 0,
+        "label": "other",
         "points": [
             39,
             93.36870026525199,

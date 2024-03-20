@@ -1,7 +1,7 @@
 [
     {
         "transcription": "NoDafat",
-        "label": 0,
+        "label": "other",
         "points": [
             17.5,
             8.37696335078534,
@@ -13,7 +13,7 @@
     },
     {
         "transcription": "USA",
-        "label": 0,
+        "label": "other",
         "points": [
             88.33333333333333,
             6.806282722513089,
@@ -25,7 +25,7 @@
     },
     {
         "transcription": "DRIVER",
-        "label": 0,
+        "label": "other",
         "points": [
             62.5,
             12.303664921465968,
@@ -37,7 +37,7 @@
     },
     {
         "transcription": "ND",
-        "label": 0,
+        "label": "other",
         "points": [
             90.16666666666667,
             10.471204188481675,
@@ -49,7 +49,7 @@
     },
     {
         "transcription": "LICENSE",
-        "label": 0,
+        "label": "other",
         "points": [
             61.666666666666664,
             16.75392670157068,
@@ -61,7 +61,7 @@
     },
     {
         "transcription": "CLASS",
-        "label": 0,
+        "label": "other",
         "points": [
             35.833333333333336,
             25.654450261780106,
@@ -73,7 +73,7 @@
     },
     {
         "transcription": "12",
-        "label": 0,
+        "label": "other",
         "points": [
             53.833333333333336,
             26.701570680628272,
@@ -85,7 +85,7 @@
     },
     {
         "transcription": "RESTR",
-        "label": 0,
+        "label": "other",
         "points": [
             55.666666666666664,
             26.17801047120419,
@@ -97,7 +97,7 @@
     },
     {
         "transcription": "END",
-        "label": 0,
+        "label": "other",
         "points": [
             81.33333333333333,
             26.17801047120419,
@@ -109,7 +109,7 @@
     },
     {
         "transcription": "AM",
-        "label": 4,
+        "label": "4",
         "points": [
             36.333333333333336,
             29.842931937172775,
@@ -121,7 +121,7 @@
     },
     {
         "transcription": "NONE",
-        "label": 0,
+        "label": "other",
         "points": [
             56.333333333333336,
             29.842931937172775,
@@ -133,7 +133,7 @@
     },
     {
         "transcription": "NONE",
-        "label": 0,
+        "label": "other",
         "points": [
             81.33333333333333,
             29.581151832460733,
@@ -145,7 +145,7 @@
     },
     {
         "transcription": "SAMPLE",
-        "label": 3,
+        "label": "3",
         "points": [
             36,
             32.98429319371728,
@@ -157,7 +157,7 @@
     },
     {
         "transcription": "CONNORMICHAELJR",
-        "label": 2,
+        "label": "2",
         "points": [
             36,
             40.31413612565445,
@@ -169,7 +169,7 @@
     },
     {
         "transcription": "GOBEASTBOULEVARDAVENUE",
-        "label": 2,
+        "label": "2",
         "points": [
             36,
             45.026178010471206,
@@ -181,7 +181,7 @@
     },
     {
         "transcription": "BISMARCKND58505-0700",
-        "label": 2,
+        "label": "2",
         "points": [
             36,
             48.952879581151834,
@@ -193,7 +193,7 @@
     },
     {
         "transcription": "IC",
-        "label": 0,
+        "label": "other",
         "points": [
             33.833333333333336,
             59.68586387434555,
@@ -205,7 +205,7 @@
     },
     {
         "transcription": "SAM-67-1234",
-        "label": 0,
+        "label": "other",
         "points": [
             43.333333333333336,
             58.37696335078534,
@@ -217,7 +217,7 @@
     },
     {
         "transcription": "3",
-        "label": 0,
+        "label": "other",
         "points": [
             34,
             67.80104712041884,
@@ -229,7 +229,7 @@
     },
     {
         "transcription": "1",
-        "label": 1,
+        "label": "1",
         "points": [
             35.5,
             66.49214659685863,
@@ -241,7 +241,7 @@
     },
     {
         "transcription": "01/12/1967",
-        "label": 1,
+        "label": "1",
         "points": [
             42.666666666666664,
             65.96858638743456,
@@ -253,7 +253,7 @@
     },
     {
         "transcription": "15SEXM",
-        "label": 0,
+        "label": "other",
         "points": [
             64.33333333333333,
             67.01570680628272,
@@ -265,7 +265,7 @@
     },
     {
         "transcription": "01/10/2013",
-        "label": 0,
+        "label": "other",
         "points": [
             42.666666666666664,
             71.98952879581152,
@@ -277,7 +277,7 @@
     },
     {
         "transcription": "HGT 5-08",
-        "label": 0,
+        "label": "other",
         "points": [
             64.16666666666667,
             72.5130890052356,
@@ -289,7 +289,7 @@
     },
     {
         "transcription": "ConnorSample",
-        "label": 0,
+        "label": "other",
         "points": [
             5.166666666666667,
             81.67539267015707,
@@ -301,7 +301,7 @@
     },
     {
         "transcription": "EXP",
-        "label": 0,
+        "label": "other",
         "points": [
             34,
             79.84293193717278,
@@ -313,7 +313,7 @@
     },
     {
         "transcription": "01/12/2019",
-        "label": 0,
+        "label": "other",
         "points": [
             42.833333333333336,
             78.53403141361257,
@@ -325,7 +325,7 @@
     },
     {
         "transcription": "EYESBRO",
-        "label": 0,
+        "label": "other",
         "points": [
             64.16666666666667,
             78.79581151832461,
@@ -337,7 +337,7 @@
     },
     {
         "transcription": "DONOR",
-        "label": 0,
+        "label": "other",
         "points": [
             84.66666666666667,
             84.81675392670157,
@@ -349,7 +349,7 @@
     },
     {
         "transcription": "5D6SAM671234SCA1912AF681DZB",
-        "label": 0,
+        "label": "other",
         "points": [
             33.333333333333336,
             88.7434554973822,
@@ -361,7 +361,7 @@
     },
     {
         "transcription": "REV MNDOICCYY",
-        "label": 0,
+        "label": "other",
         "points": [
             75.5,
             88.21989528795811,

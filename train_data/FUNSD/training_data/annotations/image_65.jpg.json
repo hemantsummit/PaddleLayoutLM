@@ -1,7 +1,7 @@
 [
     {
         "transcription": "NEVADA",
-        "label": 0,
+        "label": "other",
         "points": [
             36.333333333333336,
             5.75,
@@ -13,7 +13,7 @@
     },
     {
         "transcription": "USA",
-        "label": 0,
+        "label": "other",
         "points": [
             89.16666666666667,
             6.75,
@@ -25,7 +25,7 @@
     },
     {
         "transcription": "NV",
-        "label": 0,
+        "label": "other",
         "points": [
             90.16666666666667,
             11,
@@ -37,7 +37,7 @@
     },
     {
         "transcription": "DRIVERLICENSE",
-        "label": 0,
+        "label": "other",
         "points": [
             45.833333333333336,
             27.5,
@@ -49,7 +49,7 @@
     },
     {
         "transcription": "1-SAMPLE",
-        "label": 4,
+        "label": "4",
         "points": [
             29.666666666666668,
             36.5,
@@ -61,7 +61,7 @@
     },
     {
         "transcription": "2JELANI",
-        "label": 3,
+        "label": "3",
         "points": [
             29.666666666666668,
             41.5,
@@ -73,7 +73,7 @@
     },
     {
         "transcription": "8123 SAMPLE DRIVE",
-        "label": 2,
+        "label": "2",
         "points": [
             29.5,
             47,
@@ -85,7 +85,7 @@
     },
     {
         "transcription": "APT.12",
-        "label": 2,
+        "label": "2",
         "points": [
             31.5,
             51.5,
@@ -97,7 +97,7 @@
     },
     {
         "transcription": "ANYTOWN,NV 12345-00000",
-        "label": 2,
+        "label": "2",
         "points": [
             31.5,
             55.75,
@@ -109,7 +109,7 @@
     },
     {
         "transcription": "15 Sex M16Hgt 603",
-        "label": 0,
+        "label": "other",
         "points": [
             29.166666666666668,
             59,
@@ -121,7 +121,7 @@
     },
     {
         "transcription": "g180",
-        "label": 0,
+        "label": "other",
         "points": [
             54.833333333333336,
             58.75,
@@ -133,7 +133,7 @@
     },
     {
         "transcription": "Eyes BRO",
-        "label": 0,
+        "label": "other",
         "points": [
             72.83333333333333,
             59.25,
@@ -145,7 +145,7 @@
     },
     {
         "transcription": "9Class A",
-        "label": 0,
+        "label": "other",
         "points": [
             29.333333333333332,
             64.75,
@@ -157,7 +157,7 @@
     },
     {
         "transcription": "9a End",
-        "label": 0,
+        "label": "other",
         "points": [
             47.166666666666664,
             64.5,
@@ -169,7 +169,7 @@
     },
     {
         "transcription": "BLK 4a Iss 07/011200",
-        "label": 0,
+        "label": "other",
         "points": [
             70.66666666666667,
             64.5,
@@ -181,7 +181,7 @@
     },
     {
         "transcription": "12 Restr A",
-        "label": 0,
+        "label": "other",
         "points": [
             29.333333333333332,
             68.5,
@@ -193,7 +193,7 @@
     },
     {
         "transcription": "DD 000117739340094130447",
-        "label": 0,
+        "label": "other",
         "points": [
             61.5,
             68.5,
@@ -205,7 +205,7 @@
     },
     {
         "transcription": "4d DL NO",
-        "label": 0,
+        "label": "other",
         "points": [
             41.166666666666664,
             75.5,
@@ -217,7 +217,7 @@
     },
     {
         "transcription": "123456789123",
-        "label": 0,
+        "label": "other",
         "points": [
             53.5,
             73.75,
@@ -229,7 +229,7 @@
     },
     {
         "transcription": "VETERAN",
-        "label": 0,
+        "label": "other",
         "points": [
             82.83333333333333,
             73.5,
@@ -241,7 +241,7 @@
     },
     {
         "transcription": "elaniSampl",
-        "label": 0,
+        "label": "other",
         "points": [
             8,
             80.75,
@@ -253,7 +253,7 @@
     },
     {
         "transcription": "1",
-        "label": 1,
+        "label": "1",
         "points": [
             43.833333333333336,
             82,
@@ -265,7 +265,7 @@
     },
     {
         "transcription": "07101/1954",
-        "label": 1,
+        "label": "1",
         "points": [
             53,
             80,
@@ -277,7 +277,7 @@
     },
     {
         "transcription": "3",
-        "label": 0,
+        "label": "other",
         "points": [
             41.5,
             82.75,
@@ -289,7 +289,7 @@
     },
     {
         "transcription": "4b Exp",
-        "label": 0,
+        "label": "other",
         "points": [
             41.166666666666664,
             88,
@@ -301,7 +301,7 @@
     },
     {
         "transcription": "0710112022",
-        "label": 0,
+        "label": "other",
         "points": [
             53.166666666666664,
             86,

@@ -1,7 +1,7 @@
 [
     {
         "transcription": "MISSS",
-        "label": 0,
+        "label": "other",
         "points": [
             4.833333333333333,
             2.9585798816568047,
@@ -13,7 +13,7 @@
     },
     {
         "transcription": "SPP",
-        "label": 0,
+        "label": "other",
         "points": [
             23.166666666666668,
             1.4792899408284024,
@@ -25,7 +25,7 @@
     },
     {
         "transcription": "DRIVERLICENSE",
-        "label": 0,
+        "label": "other",
         "points": [
             48.833333333333336,
             5.621301775147929,
@@ -37,7 +37,7 @@
     },
     {
         "transcription": "4bEXP",
-        "label": 0,
+        "label": "other",
         "points": [
             76.5,
             28.698224852071007,
@@ -49,7 +49,7 @@
     },
     {
         "transcription": "123456789",
-        "label": 0,
+        "label": "other",
         "points": [
             46.333333333333336,
             31.952662721893493,
@@ -61,7 +61,7 @@
     },
     {
         "transcription": "01/12/2024",
-        "label": 0,
+        "label": "other",
         "points": [
             76.33333333333333,
             32.248520710059175,
@@ -73,7 +73,7 @@
     },
     {
         "transcription": "3DOB01/12/1967",
-        "label": 1,
+        "label": "1",
         "points": [
             46,
             39.053254437869825,
@@ -85,7 +85,7 @@
     },
     {
         "transcription": "SAMPLE",
-        "label": 4,
+        "label": "4",
         "points": [
             32.166666666666664,
             46.44970414201183,
@@ -97,7 +97,7 @@
     },
     {
         "transcription": "CONNOR M,JR",
-        "label": 3,
+        "label": "3",
         "points": [
             29.833333333333332,
             51.18343195266272,
@@ -109,7 +109,7 @@
     },
     {
         "transcription": "123MAIN ST",
-        "label": 2,
+        "label": "2",
         "points": [
             30.166666666666668,
             57.10059171597633,
@@ -121,7 +121,7 @@
     },
     {
         "transcription": "JACKSON.MS 39216-1234",
-        "label": 2,
+        "label": "2",
         "points": [
             31.833333333333332,
             61.83431952662722,
@@ -133,7 +133,7 @@
     },
     {
         "transcription": "4s501/10/2016",
-        "label": 0,
+        "label": "other",
         "points": [
             30.166666666666668,
             68.93491124260355,
@@ -145,7 +145,7 @@
     },
     {
         "transcription": "9CLASS C",
-        "label": 0,
+        "label": "other",
         "points": [
             30.333333333333332,
             75.44378698224853,
@@ -157,7 +157,7 @@
     },
     {
         "transcription": "END NONE",
-        "label": 0,
+        "label": "other",
         "points": [
             46.166666666666664,
             74.85207100591715,
@@ -169,7 +169,7 @@
     },
     {
         "transcription": "12 RESTNONE",
-        "label": 0,
+        "label": "other",
         "points": [
             65.16666666666667,
             74.85207100591715,
@@ -181,7 +181,7 @@
     },
     {
         "transcription": "15 SEX M 16 HOT 5-08",
-        "label": 0,
+        "label": "other",
         "points": [
             33.666666666666664,
             81.65680473372781,
@@ -193,7 +193,7 @@
     },
     {
         "transcription": "ConnoSomple",
-        "label": 0,
+        "label": "other",
         "points": [
             4.666666666666667,
             88.46153846153847,
@@ -205,7 +205,7 @@
     },
     {
         "transcription": "18EYES BLU",
-        "label": 0,
+        "label": "other",
         "points": [
             33.666666666666664,
             88.46153846153847,
@@ -217,7 +217,7 @@
     },
     {
         "transcription": "D0 0123456789012345678901234",
-        "label": 0,
+        "label": "other",
         "points": [
             33.666666666666664,
             95.26627218934911,

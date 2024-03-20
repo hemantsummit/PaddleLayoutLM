@@ -1,7 +1,7 @@
 [
     {
         "transcription": "INDIANA",
-        "label": 0,
+        "label": "other",
         "points": [
             5.333333333333333,
             2.366863905325444,
@@ -13,7 +13,7 @@
     },
     {
         "transcription": "OPERATORLICENSE",
-        "label": 0,
+        "label": "other",
         "points": [
             42.166666666666664,
             1.4792899408284024,
@@ -25,7 +25,7 @@
     },
     {
         "transcription": "bmv.IN.qov",
-        "label": 0,
+        "label": "other",
         "points": [
             2.5,
             12.1301775147929,
@@ -37,7 +37,7 @@
     },
     {
         "transcription": "PETER L. LACY.COMMISSIONER",
-        "label": 0,
+        "label": "other",
         "points": [
             2.1666666666666665,
             15.384615384615385,
@@ -49,7 +49,7 @@
     },
     {
         "transcription": "DLN 1234-56-7890",
-        "label": 0,
+        "label": "other",
         "points": [
             28.833333333333332,
             18.63905325443787,
@@ -61,7 +61,7 @@
     },
     {
         "transcription": "EX11/17/2023",
-        "label": 0,
+        "label": "other",
         "points": [
             70.66666666666667,
             18.93491124260355,
@@ -73,7 +73,7 @@
     },
     {
         "transcription": "1SAMPLE",
-        "label": 4,
+        "label": "4",
         "points": [
             29.5,
             27.810650887573964,
@@ -85,7 +85,7 @@
     },
     {
         "transcription": "2MARKALLEN",
-        "label": 3,
+        "label": "3",
         "points": [
             29,
             33.13609467455621,
@@ -97,7 +97,7 @@
     },
     {
         "transcription": "8123MAIN STREET",
-        "label": 2,
+        "label": "2",
         "points": [
             29.5,
             42.89940828402367,
@@ -109,7 +109,7 @@
     },
     {
         "transcription": "INDIANAPOLIS.IN 46204-0000",
-        "label": 2,
+        "label": "2",
         "points": [
             30.833333333333332,
             46.74556213017752,
@@ -121,7 +121,7 @@
     },
     {
         "transcription": "9 CLASS NONE",
-        "label": 0,
+        "label": "other",
         "points": [
             29,
             56.50887573964497,
@@ -133,7 +133,7 @@
     },
     {
         "transcription": "9a END L",
-        "label": 0,
+        "label": "other",
         "points": [
             51.833333333333336,
             57.10059171597633,
@@ -145,7 +145,7 @@
     },
     {
         "transcription": "12RES 289B",
-        "label": 0,
+        "label": "other",
         "points": [
             29.666666666666668,
             61.83431952662722,
@@ -157,7 +157,7 @@
     },
     {
         "transcription": "15SEX M16 HGT 5-11-17 WGT 180Ib",
-        "label": 0,
+        "label": "other",
         "points": [
             29.666666666666668,
             67.45562130177515,
@@ -169,7 +169,7 @@
     },
     {
         "transcription": "18EYESBRO",
-        "label": 0,
+        "label": "other",
         "points": [
             29.666666666666668,
             72.18934911242603,
@@ -181,7 +181,7 @@
     },
     {
         "transcription": "19 HAIR BRO",
-        "label": 0,
+        "label": "other",
         "points": [
             44.833333333333336,
             71.30177514792899,
@@ -193,7 +193,7 @@
     },
     {
         "transcription": "Mank Sample",
-        "label": 0,
+        "label": "other",
         "points": [
             3.1666666666666665,
             82.84023668639053,
@@ -205,7 +205,7 @@
     },
     {
         "transcription": "5 DD 12345678901234",
-        "label": 0,
+        "label": "other",
         "points": [
             29,
             86.09467455621302,
@@ -217,7 +217,7 @@
     },
     {
         "transcription": "11/17/70",
-        "label": 0,
+        "label": "other",
         "points": [
             79,
             89.94082840236686,
@@ -229,7 +229,7 @@
     },
     {
         "transcription": "DONOR",
-        "label": 0,
+        "label": "other",
         "points": [
             28.5,
             93.78698224852072,
@@ -241,7 +241,7 @@
     },
     {
         "transcription": "MEDICALCONDITION/ALERT",
-        "label": 0,
+        "label": "other",
         "points": [
             42.333333333333336,
             94.67455621301775,
@@ -253,7 +253,7 @@
     },
     {
         "transcription": "_",
-        "label": 0,
+        "label": "other",
         "points": [
             31.510107015457788,
             77.67591413434275,

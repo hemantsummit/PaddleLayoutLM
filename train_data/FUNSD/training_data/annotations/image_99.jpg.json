@@ -1,7 +1,7 @@
 [
     {
         "transcription": "IVERMONT",
-        "label": 0,
+        "label": "other",
         "points": [
             7,
             8.152173913043478,
@@ -13,7 +13,7 @@
     },
     {
         "transcription": "LIMITED-TERM",
-        "label": 0,
+        "label": "other",
         "points": [
             75,
             4.619565217391305,
@@ -25,7 +25,7 @@
     },
     {
         "transcription": "NONDRIVERIDENTIFICATION CARD",
-        "label": 0,
+        "label": "other",
         "points": [
             27.333333333333332,
             17.391304347826086,
@@ -37,7 +37,7 @@
     },
     {
         "transcription": "FORIDENTIFICATION PURPOSESONLY",
-        "label": 0,
+        "label": "other",
         "points": [
             31.333333333333332,
             24.456521739130434,
@@ -49,7 +49,7 @@
     },
     {
         "transcription": "4dID NUMBER",
-        "label": 0,
+        "label": "other",
         "points": [
             33.666666666666664,
             30.16304347826087,
@@ -61,7 +61,7 @@
     },
     {
         "transcription": "12345678",
-        "label": 0,
+        "label": "other",
         "points": [
             51.666666666666664,
             29.347826086956523,
@@ -73,7 +73,7 @@
     },
     {
         "transcription": "3DOB01/06/1958",
-        "label": 1,
+        "label": "1",
         "points": [
             71.5,
             28.804347826086957,
@@ -85,7 +85,7 @@
     },
     {
         "transcription": "ISAMPLE",
-        "label": 4,
+        "label": "4",
         "points": [
             33.833333333333336,
             35.05434782608695,
@@ -97,7 +97,7 @@
     },
     {
         "transcription": "JOHNA",
-        "label": 3,
+        "label": "3",
         "points": [
             33,
             41.03260869565217,
@@ -109,7 +109,7 @@
     },
     {
         "transcription": "S",
-        "label": 0,
+        "label": "other",
         "points": [
             31.333333333333332,
             45.65217391304348,
@@ -121,7 +121,7 @@
     },
     {
         "transcription": "23STREETADDRESS",
-        "label": 2,
+        "label": "2",
         "points": [
             34.833333333333336,
             51.630434782608695,
@@ -133,7 +133,7 @@
     },
     {
         "transcription": "MONTPELIERVT12345-1234",
-        "label": 2,
+        "label": "2",
         "points": [
             35.333333333333336,
             56.52173913043478,
@@ -145,7 +145,7 @@
     },
     {
         "transcription": "ISS08/05/20184bEXP01/06/2022",
-        "label": 0,
+        "label": "other",
         "points": [
             33.166666666666664,
             65.48913043478261,
@@ -157,7 +157,7 @@
     },
     {
         "transcription": "SohnASampl",
-        "label": 0,
+        "label": "other",
         "points": [
             5,
             85.05434782608695,
@@ -169,7 +169,7 @@
     },
     {
         "transcription": "15 SEXM",
-        "label": 0,
+        "label": "other",
         "points": [
             37.666666666666664,
             83.96739130434783,
@@ -181,7 +181,7 @@
     },
     {
         "transcription": "18 EYES HAZ",
-        "label": 0,
+        "label": "other",
         "points": [
             57.166666666666664,
             83.96739130434783,
@@ -193,7 +193,7 @@
     },
     {
         "transcription": "16 HGT 508",
-        "label": 0,
+        "label": "other",
         "points": [
             37.5,
             88.58695652173913,
@@ -205,7 +205,7 @@
     },
     {
         "transcription": "17 WGT 165Ib",
-        "label": 0,
+        "label": "other",
         "points": [
             57.333333333333336,
             89.67391304347827,
@@ -217,7 +217,7 @@
     },
     {
         "transcription": "5 DD 1234567001234567889123456 REV10/16/2018",
-        "label": 0,
+        "label": "other",
         "points": [
             38,
             94.02173913043478,

@@ -1,7 +1,7 @@
 [
     {
         "transcription": "Pennsylvania",
-        "label": 0,
+        "label": "other",
         "points": [
             3,
             4.986876640419948,
@@ -13,7 +13,7 @@
     },
     {
         "transcription": "DRIVERSLICENSE",
-        "label": 0,
+        "label": "other",
         "points": [
             51.5,
             5.511811023622047,
@@ -25,7 +25,7 @@
     },
     {
         "transcription": "dDLN",
-        "label": 0,
+        "label": "other",
         "points": [
             33.333333333333336,
             23.35958005249344,
@@ -37,7 +37,7 @@
     },
     {
         "transcription": "99 999 999",
-        "label": 0,
+        "label": "other",
         "points": [
             42.5,
             22.04724409448819,
@@ -49,7 +49,7 @@
     },
     {
         "transcription": "DUPS:00",
-        "label": 0,
+        "label": "other",
         "points": [
             71.33333333333333,
             20.99737532808399,
@@ -61,7 +61,7 @@
     },
     {
         "transcription": "3DOB:",
-        "label": 0,
+        "label": "other",
         "points": [
             32.666666666666664,
             28.608923884514436,
@@ -73,7 +73,7 @@
     },
     {
         "transcription": "08/04/1969",
-        "label": 1,
+        "label": "1",
         "points": [
             42.833333333333336,
             28.083989501312335,
@@ -85,7 +85,7 @@
     },
     {
         "transcription": "4bEXP",
-        "label": 0,
+        "label": "other",
         "points": [
             33,
             35.17060367454068,
@@ -97,7 +97,7 @@
     },
     {
         "transcription": "08/05/2020",
-        "label": 0,
+        "label": "other",
         "points": [
             42.333333333333336,
             34.645669291338585,
@@ -109,7 +109,7 @@
     },
     {
         "transcription": "481SS:",
-        "label": 0,
+        "label": "other",
         "points": [
             69.5,
             35.958005249343834,
@@ -121,7 +121,7 @@
     },
     {
         "transcription": "10/05/2016",
-        "label": 0,
+        "label": "other",
         "points": [
             77.16666666666667,
             34.38320209973753,
@@ -133,7 +133,7 @@
     },
     {
         "transcription": "SAMPLE",
-        "label": 4,
+        "label": "4",
         "points": [
             34.333333333333336,
             41.20734908136483,
@@ -145,7 +145,7 @@
     },
     {
         "transcription": "2JANICEANN",
-        "label": 3,
+        "label": "3",
         "points": [
             32.666666666666664,
             46.194225721784775,
@@ -157,7 +157,7 @@
     },
     {
         "transcription": "8123MAINSTREET",
-        "label": 2,
+        "label": "2",
         "points": [
             32.833333333333336,
             50.91863517060367,
@@ -169,7 +169,7 @@
     },
     {
         "transcription": "APT.",
-        "label": 2,
+        "label": "2",
         "points": [
             35.333333333333336,
             54.85564304461942,
@@ -181,7 +181,7 @@
     },
     {
         "transcription": "HARRISBURG.PA17101-0000",
-        "label": 2,
+        "label": "2",
         "points": [
             35,
             58.00524934383202,
@@ -193,7 +193,7 @@
     },
     {
         "transcription": "15SEX:F18EYES:BRO",
-        "label": 0,
+        "label": "other",
         "points": [
             33.166666666666664,
             63.25459317585302,
@@ -205,7 +205,7 @@
     },
     {
         "transcription": "16HGT:5-06",
-        "label": 0,
+        "label": "other",
         "points": [
             32.833333333333336,
             66.66666666666667,
@@ -217,7 +217,7 @@
     },
     {
         "transcription": "9CLASS:C",
-        "label": 0,
+        "label": "other",
         "points": [
             32.833333333333336,
             72.17847769028872,
@@ -229,7 +229,7 @@
     },
     {
         "transcription": "9aEND:NONE",
-        "label": 0,
+        "label": "other",
         "points": [
             33,
             76.11548556430446,
@@ -241,7 +241,7 @@
     },
     {
         "transcription": "12RESTRNONE",
-        "label": 0,
+        "label": "other",
         "points": [
             32.666666666666664,
             79.26509186351706,
@@ -253,7 +253,7 @@
     },
     {
         "transcription": "DL",
-        "label": 0,
+        "label": "other",
         "points": [
             66.33333333333333,
             77.69028871391076,
@@ -265,7 +265,7 @@
     },
     {
         "transcription": "Lamice Lamala",
-        "label": 0,
+        "label": "other",
         "points": [
             3.8333333333333335,
             83.72703412073491,
@@ -277,7 +277,7 @@
     },
     {
         "transcription": "ORGANDONOR",
-        "label": 0,
+        "label": "other",
         "points": [
             74.30992509363296,
             92.20118552596655,

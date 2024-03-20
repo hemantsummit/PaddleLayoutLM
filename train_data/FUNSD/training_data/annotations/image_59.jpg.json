@@ -1,7 +1,7 @@
 [
     {
         "transcription": "MISSOURI",
-        "label": 0,
+        "label": "other",
         "points": [
             37.333333333333336,
             7.0680628272251305,
@@ -13,7 +13,7 @@
     },
     {
         "transcription": "OLRMLO",
-        "label": 0,
+        "label": "other",
         "points": [
             3.5,
             20.418848167539267,
@@ -25,7 +25,7 @@
     },
     {
         "transcription": "DRIVERLICENSE",
-        "label": 0,
+        "label": "other",
         "points": [
             49.333333333333336,
             22.25130890052356,
@@ -37,7 +37,7 @@
     },
     {
         "transcription": "CLASF",
-        "label": 0,
+        "label": "other",
         "points": [
             29.333333333333332,
             29.581151832460733,
@@ -49,7 +49,7 @@
     },
     {
         "transcription": "02/01/2019",
-        "label": 0,
+        "label": "other",
         "points": [
             61.333333333333336,
             29.581151832460733,
@@ -61,7 +61,7 @@
     },
     {
         "transcription": "T123456789",
-        "label": 0,
+        "label": "other",
         "points": [
             29.666666666666668,
             35.86387434554974,
@@ -73,7 +73,7 @@
     },
     {
         "transcription": "con02/01/1979",
-        "label": 1,
+        "label": "1",
         "points": [
             62.5,
             36.12565445026178,
@@ -85,7 +85,7 @@
     },
     {
         "transcription": "SAMPLE",
-        "label": 4,
+        "label": "4",
         "points": [
             31,
             43.455497382198956,
@@ -97,7 +97,7 @@
     },
     {
         "transcription": "JANEDOE",
-        "label": 3,
+        "label": "3",
         "points": [
             29.666666666666668,
             48.42931937172775,
@@ -109,7 +109,7 @@
     },
     {
         "transcription": "123SAMPLESTREET.APT.4",
-        "label": 2,
+        "label": "2",
         "points": [
             30,
             55.49738219895288,
@@ -121,7 +121,7 @@
     },
     {
         "transcription": "JEFFERSCNCITYMO651C9",
-        "label": 2,
+        "label": "2",
         "points": [
             31.333333333333332,
             59.424083769633505,
@@ -133,7 +133,7 @@
     },
     {
         "transcription": "NENONONE",
-        "label": 0,
+        "label": "other",
         "points": [
             29.666666666666668,
             67.27748691099477,
@@ -145,7 +145,7 @@
     },
     {
         "transcription": "ZRESTHICTONSNONE",
-        "label": 0,
+        "label": "other",
         "points": [
             29.666666666666668,
             71.46596858638743,
@@ -157,7 +157,7 @@
     },
     {
         "transcription": "1SEXF",
-        "label": 0,
+        "label": "other",
         "points": [
             29.666666666666668,
             75.91623036649214,
@@ -169,7 +169,7 @@
     },
     {
         "transcription": "25Ib402/01/2013",
-        "label": 0,
+        "label": "other",
         "points": [
             46.333333333333336,
             75.39267015706807,
@@ -181,7 +181,7 @@
     },
     {
         "transcription": "15-02",
-        "label": 0,
+        "label": "other",
         "points": [
             29.5,
             79.58115183246073,
@@ -193,7 +193,7 @@
     },
     {
         "transcription": "BRO",
-        "label": 0,
+        "label": "other",
         "points": [
             46.333333333333336,
             79.84293193717278,
@@ -205,7 +205,7 @@
     },
     {
         "transcription": "5D0101230320002",
-        "label": 0,
+        "label": "other",
         "points": [
             30.666666666666668,
             90.57591623036649,

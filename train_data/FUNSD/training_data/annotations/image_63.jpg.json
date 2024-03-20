@@ -1,7 +1,7 @@
 [
     {
         "transcription": "NEBRASKA",
-        "label": 0,
+        "label": "other",
         "points": [
             13.352272727272727,
             6.008583690987124,
@@ -13,7 +13,7 @@
     },
     {
         "transcription": "USA NE",
-        "label": 0,
+        "label": "other",
         "points": [
             54.54545454545455,
             8.583690987124463,
@@ -25,7 +25,7 @@
     },
     {
         "transcription": "DRIVERLICENSE",
-        "label": 0,
+        "label": "other",
         "points": [
             35.22727272727273,
             13.733905579399142,
@@ -37,7 +37,7 @@
     },
     {
         "transcription": "License No.N99999999ISs 02/01/2016",
-        "label": 0,
+        "label": "other",
         "points": [
             32.67045454545455,
             18.88412017167382,
@@ -49,7 +49,7 @@
     },
     {
         "transcription": "1",
-        "label": 1,
+        "label": "1",
         "points": [
             36.07954545454545,
             27.467811158798284,
@@ -61,7 +61,7 @@
     },
     {
         "transcription": "02/01/1977",
-        "label": 1,
+        "label": "1",
         "points": [
             44.60227272727273,
             26.180257510729614,
@@ -73,7 +73,7 @@
     },
     {
         "transcription": "EXP02/01/2021",
-        "label": 0,
+        "label": "other",
         "points": [
             67.61363636363636,
             25.321888412017167,
@@ -85,7 +85,7 @@
     },
     {
         "transcription": "End NONE",
-        "label": 4,
+        "label": "4",
         "points": [
             33.80681818181818,
             34.33476394849785,
@@ -97,7 +97,7 @@
     },
     {
         "transcription": "9Class",
-        "label": 0,
+        "label": "other",
         "points": [
             68.18181818181819,
             34.76394849785408,
@@ -109,7 +109,7 @@
     },
     {
         "transcription": "12RestNONE",
-        "label": 3,
+        "label": "3",
         "points": [
             33.52272727272727,
             39.48497854077253,
@@ -121,7 +121,7 @@
     },
     {
         "transcription": "5SexF",
-        "label": 0,
+        "label": "other",
         "points": [
             33.52272727272727,
             50.21459227467811,
@@ -133,7 +133,7 @@
     },
     {
         "transcription": "Hgt504",
-        "label": 0,
+        "label": "other",
         "points": [
             50,
             49.78540772532189,
@@ -145,7 +145,7 @@
     },
     {
         "transcription": "17 Wgt 150 Ib",
-        "label": 0,
+        "label": "other",
         "points": [
             68.18181818181819,
             50.64377682403433,
@@ -157,7 +157,7 @@
     },
     {
         "transcription": "EyeBRO",
-        "label": 0,
+        "label": "other",
         "points": [
             33.80681818181818,
             57.081545064377686,
@@ -169,7 +169,7 @@
     },
     {
         "transcription": "1Hair BRO",
-        "label": 0,
+        "label": "other",
         "points": [
             68.75,
             57.081545064377686,
@@ -181,7 +181,7 @@
     },
     {
         "transcription": "SAMPLECARONLYN",
-        "label": 2,
+        "label": "2",
         "points": [
             34.375,
             67.38197424892704,
@@ -193,7 +193,7 @@
     },
     {
         "transcription": "123 MAINSTREET",
-        "label": 2,
+        "label": "2",
         "points": [
             36.36363636363637,
             72.96137339055794,
@@ -205,7 +205,7 @@
     },
     {
         "transcription": "CaronLample",
-        "label": 0,
+        "label": "other",
         "points": [
             2.840909090909091,
             80.68669527896996,
@@ -217,7 +217,7 @@
     },
     {
         "transcription": "VETERAN",
-        "label": 0,
+        "label": "other",
         "points": [
             55.11363636363637,
             81.97424892703863,
@@ -229,7 +229,7 @@
     },
     {
         "transcription": "DONOR",
-        "label": 0,
+        "label": "other",
         "points": [
             67.89772727272727,
             82.40343347639485,
@@ -241,7 +241,7 @@
     },
     {
         "transcription": "DD123456789017345679012345",
-        "label": 0,
+        "label": "other",
         "points": [
             36.07954545454545,
             87.55364806866953,

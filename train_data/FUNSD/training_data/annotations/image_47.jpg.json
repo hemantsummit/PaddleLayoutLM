@@ -1,7 +1,7 @@
 [
     {
         "transcription": "Maine",
-        "label": 0,
+        "label": "other",
         "points": [
             3.7037037037037037,
             8.49673202614379,
@@ -13,7 +13,7 @@
     },
     {
         "transcription": "DRIVERS LICENSE",
-        "label": 0,
+        "label": "other",
         "points": [
             39.50617283950617,
             15.686274509803921,
@@ -25,7 +25,7 @@
     },
     {
         "transcription": "MOLMO",
-        "label": 0,
+        "label": "other",
         "points": [
             32.92181069958848,
             26.797385620915033,
@@ -37,7 +37,7 @@
     },
     {
         "transcription": "1234567",
-        "label": 0,
+        "label": "other",
         "points": [
             45.67901234567901,
             23.529411764705884,
@@ -49,7 +49,7 @@
     },
     {
         "transcription": "01/12/2024",
-        "label": 0,
+        "label": "other",
         "points": [
             35.80246913580247,
             30.718954248366014,
@@ -61,7 +61,7 @@
     },
     {
         "transcription": "00",
-        "label": 0,
+        "label": "other",
         "points": [
             68.72427983539094,
             32.6797385620915,
@@ -73,7 +73,7 @@
     },
     {
         "transcription": "01/12/1967",
-        "label": 1,
+        "label": "1",
         "points": [
             72.8395061728395,
             30.718954248366014,
@@ -85,7 +85,7 @@
     },
     {
         "transcription": "SAMPLE",
-        "label": 4,
+        "label": "4",
         "points": [
             33.333333333333336,
             37.254901960784316,
@@ -97,7 +97,7 @@
     },
     {
         "transcription": "NICK",
-        "label": 3,
+        "label": "3",
         "points": [
             33.333333333333336,
             43.790849673202615,
@@ -109,7 +109,7 @@
     },
     {
         "transcription": "123STATESTREET",
-        "label": 2,
+        "label": "2",
         "points": [
             34.5679012345679,
             47.712418300653596,
@@ -121,7 +121,7 @@
     },
     {
         "transcription": "AUGUSTA,ME 04330-1234",
-        "label": 2,
+        "label": "2",
         "points": [
             34.15637860082305,
             56.86274509803921,
@@ -133,7 +133,7 @@
     },
     {
         "transcription": "5-06",
-        "label": 0,
+        "label": "other",
         "points": [
             35.390946502057616,
             73.85620915032679,
@@ -145,7 +145,7 @@
     },
     {
         "transcription": "BLU",
-        "label": 0,
+        "label": "other",
         "points": [
             63.37448559670782,
             73.20261437908496,
@@ -157,7 +157,7 @@
     },
     {
         "transcription": "BRO",
-        "label": 0,
+        "label": "other",
         "points": [
             73.66255144032922,
             73.20261437908496,
@@ -169,7 +169,7 @@
     },
     {
         "transcription": "NON",
-        "label": 0,
+        "label": "other",
         "points": [
             32.510288065843625,
             84.9673202614379,
@@ -181,7 +181,7 @@
     },
     {
         "transcription": "01234071",
-        "label": 0,
+        "label": "other",
         "points": [
             33.333333333333336,
             90.84967320261438,

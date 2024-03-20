@@ -1,7 +1,7 @@
 [
     {
         "transcription": "Hawaii",
-        "label": 0,
+        "label": "other",
         "points": [
             1.6666666666666667,
             2.6455026455026456,
@@ -13,7 +13,7 @@
     },
     {
         "transcription": "DRIVER",
-        "label": 0,
+        "label": "other",
         "points": [
             40.166666666666664,
             4.761904761904762,
@@ -25,7 +25,7 @@
     },
     {
         "transcription": "USA",
-        "label": 0,
+        "label": "other",
         "points": [
             87,
             3.439153439153439,
@@ -37,7 +37,7 @@
     },
     {
         "transcription": "LICENSE",
-        "label": 0,
+        "label": "other",
         "points": [
             40.166666666666664,
             9.788359788359788,
@@ -49,7 +49,7 @@
     },
     {
         "transcription": "4a.lss:02/17/2010",
-        "label": 0,
+        "label": "other",
         "points": [
             0.5,
             18.253968253968253,
@@ -61,7 +61,7 @@
     },
     {
         "transcription": "4d.",
-        "label": 0,
+        "label": "other",
         "points": [
             31.5,
             30.158730158730158,
@@ -73,7 +73,7 @@
     },
     {
         "transcription": "H00000000",
-        "label": 0,
+        "label": "other",
         "points": [
             36.333333333333336,
             30.158730158730158,
@@ -85,7 +85,7 @@
     },
     {
         "transcription": "VETERAN",
-        "label": 0,
+        "label": "other",
         "points": [
             74,
             27.513227513227513,
@@ -97,7 +97,7 @@
     },
     {
         "transcription": "4b.Exp:02/2",
-        "label": 0,
+        "label": "other",
         "points": [
             36.138130686517684,
             41.08734753896051,
@@ -109,7 +109,7 @@
     },
     {
         "transcription": "16.Ht5-02",
-        "label": 0,
+        "label": "other",
         "points": [
             80.66666666666667,
             39.682539682539684,
@@ -121,7 +121,7 @@
     },
     {
         "transcription": "17.Wt120",
-        "label": 0,
+        "label": "other",
         "points": [
             80.66666666666667,
             45.767195767195766,
@@ -133,7 +133,7 @@
     },
     {
         "transcription": "3.D",
-        "label": 1,
+        "label": "1",
         "points": [
             32.83333333333341,
             50.84288471385246,
@@ -145,7 +145,7 @@
     },
     {
         "transcription": "18.Eye:BRO",
-        "label": 0,
+        "label": "other",
         "points": [
             80.66666666666667,
             52.38095238095238,
@@ -157,7 +157,7 @@
     },
     {
         "transcription": "5.20",
-        "label": 0,
+        "label": "other",
         "points": [
             33,
             57.93650793650794,
@@ -169,7 +169,7 @@
     },
     {
         "transcription": "15.Sex:F",
-        "label": 0,
+        "label": "other",
         "points": [
             80.66666666666667,
             58.73015873015873,
@@ -181,7 +181,7 @@
     },
     {
         "transcription": "9.CI3",
-        "label": 0,
+        "label": "other",
         "points": [
             80.83333333333333,
             65.87301587301587,
@@ -193,7 +193,7 @@
     },
     {
         "transcription": "9a.EnNONE",
-        "label": 0,
+        "label": "other",
         "points": [
             81.16666666666667,
             71.16402116402116,
@@ -205,7 +205,7 @@
     },
     {
         "transcription": "12.Rc:A",
-        "label": 0,
+        "label": "other",
         "points": [
             80.83333333333333,
             75.66137566137566,
@@ -217,7 +217,7 @@
     },
     {
         "transcription": "1.",
-        "label": 0,
+        "label": "other",
         "points": [
             8.166666666666666,
             80.95238095238095,
@@ -229,7 +229,7 @@
     },
     {
         "transcription": "SAMPLE",
-        "label": 4,
+        "label": "4",
         "points": [
             10.833333333333334,
             80.15873015873017,
@@ -241,7 +241,7 @@
     },
     {
         "transcription": "2.TINA,A",
-        "label": 3,
+        "label": "3",
         "points": [
             7.5,
             85.18518518518519,
@@ -253,7 +253,7 @@
     },
     {
         "transcription": "8.123ANYSTREET",
-        "label": 2,
+        "label": "2",
         "points": [
             7.5,
             89.94708994708995,
@@ -265,7 +265,7 @@
     },
     {
         "transcription": "AHCD",
-        "label": 0,
+        "label": "other",
         "points": [
             87.5,
             89.15343915343915,
@@ -277,7 +277,7 @@
     },
     {
         "transcription": "0",
-        "label": 0,
+        "label": "other",
         "points": [
             0.5,
             94.17989417989418,
@@ -289,7 +289,7 @@
     },
     {
         "transcription": "ANYCITY,AA 00000",
-        "label": 2,
+        "label": "2",
         "points": [
             11,
             94.44444444444444,
@@ -301,7 +301,7 @@
     },
     {
         "transcription": "DONOR",
-        "label": 0,
+        "label": "other",
         "points": [
             86.95323028141102,
             93.87822509106695,

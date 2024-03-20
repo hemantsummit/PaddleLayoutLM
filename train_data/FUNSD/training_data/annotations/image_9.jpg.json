@@ -1,7 +1,7 @@
 [
     {
         "transcription": "DRIVERLICENSE",
-        "label": 0,
+        "label": "other",
         "points": [
             32.833333333333336,
             5.333333333333333,
@@ -13,7 +13,7 @@
     },
     {
         "transcription": "ALABAMA",
-        "label": 0,
+        "label": "other",
         "points": [
             42.333333333333336,
             12.266666666666667,
@@ -25,7 +25,7 @@
     },
     {
         "transcription": "NO.1234567",
-        "label": 0,
+        "label": "other",
         "points": [
             42,
             30.933333333333334,
@@ -37,7 +37,7 @@
     },
     {
         "transcription": "CLASSD",
-        "label": 0,
+        "label": "other",
         "points": [
             72,
             31.733333333333334,
@@ -49,7 +49,7 @@
     },
     {
         "transcription": "D.0.8.01-05-1948",
-        "label": 1,
+        "label": "1",
         "points": [
             34.833333333333336,
             36.266666666666666,
@@ -61,7 +61,7 @@
     },
     {
         "transcription": "EXP01-05-2014",
-        "label": 0,
+        "label": "other",
         "points": [
             68.66666666666667,
             37.06666666666667,
@@ -73,7 +73,7 @@
     },
     {
         "transcription": "CONNOR",
-        "label": 4,
+        "label": "4",
         "points": [
             35.333333333333336,
             43.46666666666667,
@@ -85,7 +85,7 @@
     },
     {
         "transcription": "SAMPLE",
-        "label": 3,
+        "label": "3",
         "points": [
             35.166666666666664,
             48.266666666666666,
@@ -97,7 +97,7 @@
     },
     {
         "transcription": "1WONDERFULDRIVE",
-        "label": 2,
+        "label": "2",
         "points": [
             35.333333333333336,
             55.2,
@@ -109,7 +109,7 @@
     },
     {
         "transcription": "MONTGOMERYAL36104-1234",
-        "label": 2,
+        "label": "2",
         "points": [
             35,
             59.2,
@@ -121,7 +121,7 @@
     },
     {
         "transcription": "ENDORSEMENTS",
-        "label": 0,
+        "label": "other",
         "points": [
             35,
             64.53333333333333,
@@ -133,7 +133,7 @@
     },
     {
         "transcription": "RESTRICTIONS",
-        "label": 0,
+        "label": "other",
         "points": [
             65.16666666666667,
             64,
@@ -145,7 +145,7 @@
     },
     {
         "transcription": "Ss01-05-2010",
-        "label": 0,
+        "label": "other",
         "points": [
             34.166666666666664,
             67.46666666666667,
@@ -157,7 +157,7 @@
     },
     {
         "transcription": "SEXM",
-        "label": 0,
+        "label": "other",
         "points": [
             64.83333333333333,
             69.33333333333333,
@@ -169,7 +169,7 @@
     },
     {
         "transcription": "HT5-05",
-        "label": 0,
+        "label": "other",
         "points": [
             71,
             68.53333333333333,
@@ -181,7 +181,7 @@
     },
     {
         "transcription": "EYESBLU",
-        "label": 0,
+        "label": "other",
         "points": [
             85.16666666666667,
             68.26666666666667,
@@ -193,7 +193,7 @@
     },
     {
         "transcription": "WT120",
-        "label": 0,
+        "label": "other",
         "points": [
             73.5,
             73.06666666666666,
@@ -205,7 +205,7 @@
     },
     {
         "transcription": "HAIRBLN",
-        "label": 0,
+        "label": "other",
         "points": [
             85.5,
             73.06666666666666,
@@ -217,7 +217,7 @@
     },
     {
         "transcription": "onmordample",
-        "label": 0,
+        "label": "other",
         "points": [
             41.166666666666664,
             83.73333333333333,
@@ -229,7 +229,7 @@
     },
     {
         "transcription": "Colonol Hugh B.McCall",
-        "label": 0,
+        "label": "other",
         "points": [
             3.6666666666666665,
             87.46666666666667,
@@ -241,7 +241,7 @@
     },
     {
         "transcription": "Director.of.Publlc.Satety",
-        "label": 0,
+        "label": "other",
         "points": [
             3.3333333333333335,
             91.46666666666667,

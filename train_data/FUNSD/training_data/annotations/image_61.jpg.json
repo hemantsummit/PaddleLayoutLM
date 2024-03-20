@@ -1,7 +1,7 @@
 [
     {
         "transcription": "MONTANA",
-        "label": 0,
+        "label": "other",
         "points": [
             2.5,
             6.217616580310881,
@@ -13,7 +13,7 @@
     },
     {
         "transcription": "DRIVER LICENSE",
-        "label": 0,
+        "label": "other",
         "points": [
             49.333333333333336,
             4.66321243523316,
@@ -25,7 +25,7 @@
     },
     {
         "transcription": "USA",
-        "label": 0,
+        "label": "other",
         "points": [
             91.83333333333333,
             3.8860103626943006,
@@ -37,7 +37,7 @@
     },
     {
         "transcription": "95",
-        "label": 0,
+        "label": "other",
         "points": [
             34,
             30.310880829015545,
@@ -49,7 +49,7 @@
     },
     {
         "transcription": "CLASSD",
-        "label": 0,
+        "label": "other",
         "points": [
             35.833333333333336,
             29.792746113989637,
@@ -61,7 +61,7 @@
     },
     {
         "transcription": "12RESTR:NONE",
-        "label": 0,
+        "label": "other",
         "points": [
             58.166666666666664,
             28.756476683937823,
@@ -73,7 +73,7 @@
     },
     {
         "transcription": "9aEND:NONE",
-        "label": 0,
+        "label": "other",
         "points": [
             79.66666666666667,
             29.015544041450777,
@@ -85,7 +85,7 @@
     },
     {
         "transcription": "4dLIC#0812319684104",
-        "label": 0,
+        "label": "other",
         "points": [
             33.333333333333336,
             34.97409326424871,
@@ -97,7 +97,7 @@
     },
     {
         "transcription": "15SEX:F",
-        "label": 0,
+        "label": "other",
         "points": [
             80,
             37.82383419689119,
@@ -109,7 +109,7 @@
     },
     {
         "transcription": "08/04/1968",
-        "label": 1,
+        "label": "1",
         "points": [
             43.5,
             43.523316062176164,
@@ -121,7 +121,7 @@
     },
     {
         "transcription": "16HGT:5-06",
-        "label": 0,
+        "label": "other",
         "points": [
             80.16666666666667,
             42.487046632124354,
@@ -133,7 +133,7 @@
     },
     {
         "transcription": "3DOB",
-        "label": 1,
+        "label": "1",
         "points": [
             33.5,
             44.55958549222798,
@@ -145,7 +145,7 @@
     },
     {
         "transcription": "17WGT:150 Ib",
-        "label": 0,
+        "label": "other",
         "points": [
             79.5,
             46.89119170984456,
@@ -157,7 +157,7 @@
     },
     {
         "transcription": "4bEXP",
-        "label": 0,
+        "label": "other",
         "points": [
             33.833333333333336,
             52.07253886010363,
@@ -169,7 +169,7 @@
     },
     {
         "transcription": "08/04/2023",
-        "label": 0,
+        "label": "other",
         "points": [
             43.5,
             51.03626943005181,
@@ -181,7 +181,7 @@
     },
     {
         "transcription": "18EYES:BRO",
-        "label": 0,
+        "label": "other",
         "points": [
             80.16666666666667,
             51.81347150259067,
@@ -193,7 +193,7 @@
     },
     {
         "transcription": "SALEAE",
-        "label": 0,
+        "label": "other",
         "points": [
             2.3333333333333335,
             58.80829015544042,
@@ -205,7 +205,7 @@
     },
     {
         "transcription": "4aISS",
-        "label": 0,
+        "label": "other",
         "points": [
             34,
             58.031088082901555,
@@ -217,7 +217,7 @@
     },
     {
         "transcription": "02/15/2015",
-        "label": 0,
+        "label": "other",
         "points": [
             43.333333333333336,
             56.476683937823836,
@@ -229,7 +229,7 @@
     },
     {
         "transcription": "1",
-        "label": 0,
+        "label": "other",
         "points": [
             34.166666666666664,
             67.35751295336787,
@@ -241,7 +241,7 @@
     },
     {
         "transcription": "SAMPLE",
-        "label": 4,
+        "label": "4",
         "points": [
             36.166666666666664,
             66.58031088082902,
@@ -253,7 +253,7 @@
     },
     {
         "transcription": "2",
-        "label": 0,
+        "label": "other",
         "points": [
             34.166666666666664,
             72.53886010362694,
@@ -265,7 +265,7 @@
     },
     {
         "transcription": "BRENDA LYNN",
-        "label": 3,
+        "label": "3",
         "points": [
             36.5,
             71.50259067357513,
@@ -277,7 +277,7 @@
     },
     {
         "transcription": "8",
-        "label": 0,
+        "label": "other",
         "points": [
             34.166666666666664,
             78.75647668393782,
@@ -289,7 +289,7 @@
     },
     {
         "transcription": "123 MAIN STREET",
-        "label": 2,
+        "label": "2",
         "points": [
             36,
             76.94300518134715,
@@ -301,7 +301,7 @@
     },
     {
         "transcription": "HELENA,MT59601",
-        "label": 2,
+        "label": "2",
         "points": [
             36.666666666666664,
             82.12435233160622,
@@ -313,7 +313,7 @@
     },
     {
         "transcription": "Brenda Sample",
-        "label": 0,
+        "label": "other",
         "points": [
             2,
             84.71502590673575,
@@ -325,7 +325,7 @@
     },
     {
         "transcription": "5 DD 1234567890123456789012345",
-        "label": 0,
+        "label": "other",
         "points": [
             34,
             91.45077720207254,

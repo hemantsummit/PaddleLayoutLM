@@ -1,7 +1,7 @@
 [
     {
         "transcription": "Texas",
-        "label": 0,
+        "label": "other",
         "points": [
             5.333333333333333,
             6.432748538011696,
@@ -13,7 +13,7 @@
     },
     {
         "transcription": "USA",
-        "label": 0,
+        "label": "other",
         "points": [
             92.5,
             4.970760233918129,
@@ -25,7 +25,7 @@
     },
     {
         "transcription": "TX",
-        "label": 0,
+        "label": "other",
         "points": [
             93.66666666666667,
             9.941520467836257,
@@ -37,7 +37,7 @@
     },
     {
         "transcription": "DRIVER LICENSE",
-        "label": 0,
+        "label": "other",
         "points": [
             48.166666666666664,
             21.34502923976608,
@@ -49,7 +49,7 @@
     },
     {
         "transcription": "a",
-        "label": 0,
+        "label": "other",
         "points": [
             28.333333333333332,
             33.62573099415204,
@@ -61,7 +61,7 @@
     },
     {
         "transcription": "000000194",
-        "label": 0,
+        "label": "other",
         "points": [
             39.5,
             32.45614035087719,
@@ -73,7 +73,7 @@
     },
     {
         "transcription": "Class",
-        "label": 0,
+        "label": "other",
         "points": [
             66.16666666666667,
             33.04093567251462,
@@ -85,7 +85,7 @@
     },
     {
         "transcription": "BM",
-        "label": 0,
+        "label": "other",
         "points": [
             73.66666666666667,
             32.16374269005848,
@@ -97,7 +97,7 @@
     },
     {
         "transcription": "la",
-        "label": 0,
+        "label": "other",
         "points": [
             28.5,
             39.76608187134503,
@@ -109,7 +109,7 @@
     },
     {
         "transcription": "Iss",
-        "label": 0,
+        "label": "other",
         "points": [
             31.5,
             39.473684210526315,
@@ -121,7 +121,7 @@
     },
     {
         "transcription": "04/10/2014",
-        "label": 0,
+        "label": "other",
         "points": [
             39.5,
             38.59649122807018,
@@ -133,7 +133,7 @@
     },
     {
         "transcription": "4b",
-        "label": 0,
+        "label": "other",
         "points": [
             63,
             40.64327485380117,
@@ -145,7 +145,7 @@
     },
     {
         "transcription": "Exp 04/10/2018",
-        "label": 0,
+        "label": "other",
         "points": [
             65.83333333333333,
             39.1812865497076,
@@ -157,7 +157,7 @@
     },
     {
         "transcription": "1",
-        "label": 0,
+        "label": "other",
         "points": [
             31.333333333333332,
             46.78362573099415,
@@ -169,7 +169,7 @@
     },
     {
         "transcription": "09/21/1990",
-        "label": 1,
+        "label": "1",
         "points": [
             39.5,
             45.6140350877193,
@@ -181,7 +181,7 @@
     },
     {
         "transcription": "SAMPLE",
-        "label": 4,
+        "label": "4",
         "points": [
             30.666666666666668,
             55.26315789473684,
@@ -193,7 +193,7 @@
     },
     {
         "transcription": "A",
-        "label": 0,
+        "label": "other",
         "points": [
             31.166666666666668,
             61.69590643274854,
@@ -205,7 +205,7 @@
     },
     {
         "transcription": "JOHN",
-        "label": 3,
+        "label": "3",
         "points": [
             32,
             60.526315789473685,
@@ -217,7 +217,7 @@
     },
     {
         "transcription": "12612RIVER HILLS",
-        "label": 2,
+        "label": "2",
         "points": [
             30.666666666666668,
             73.09941520467837,
@@ -229,7 +229,7 @@
     },
     {
         "transcription": "ASPEN,TX12345",
-        "label": 2,
+        "label": "2",
         "points": [
             30.666666666666668,
             78.65497076023392,
@@ -241,7 +241,7 @@
     },
     {
         "transcription": "092186",
-        "label": 0,
+        "label": "other",
         "points": [
             8.166666666666666,
             87.42690058479532,
@@ -253,7 +253,7 @@
     },
     {
         "transcription": "12Restrictions",
-        "label": 0,
+        "label": "other",
         "points": [
             35.5,
             89.47368421052632,
@@ -265,7 +265,7 @@
     },
     {
         "transcription": "9a",
-        "label": 0,
+        "label": "other",
         "points": [
             69.33333333333333,
             90.35087719298245,
@@ -277,7 +277,7 @@
     },
     {
         "transcription": "End",
-        "label": 0,
+        "label": "other",
         "points": [
             72.16666666666667,
             88.88888888888889,
@@ -289,7 +289,7 @@
     },
     {
         "transcription": "BRN",
-        "label": 0,
+        "label": "other",
         "points": [
             79.83333333333333,
             95.6140350877193,

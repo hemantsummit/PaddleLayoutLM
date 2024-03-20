@@ -1,7 +1,7 @@
 [
     {
         "transcription": "KANSAS",
-        "label": 0,
+        "label": "other",
         "points": [
             4.869565217391305,
             6.575342465753424,
@@ -13,7 +13,7 @@
     },
     {
         "transcription": "DRIVERS",
-        "label": 0,
+        "label": "other",
         "points": [
             53.56521739130435,
             7.671232876712328,
@@ -25,7 +25,7 @@
     },
     {
         "transcription": "USA",
-        "label": 0,
+        "label": "other",
         "points": [
             91.65217391304348,
             7.945205479452055,
@@ -37,7 +37,7 @@
     },
     {
         "transcription": "LICENSE",
-        "label": 0,
+        "label": "other",
         "points": [
             54.26086956521739,
             13.150684931506849,
@@ -49,7 +49,7 @@
     },
     {
         "transcription": "KS",
-        "label": 0,
+        "label": "other",
         "points": [
             92.34782608695652,
             10.95890410958904,
@@ -61,7 +61,7 @@
     },
     {
         "transcription": "4LiC.No.K01-75-4269",
-        "label": 0,
+        "label": "other",
         "points": [
             36,
             22.19178082191781,
@@ -73,7 +73,7 @@
     },
     {
         "transcription": "4aISs",
-        "label": 0,
+        "label": "other",
         "points": [
             74.6086956521739,
             24.931506849315067,
@@ -85,7 +85,7 @@
     },
     {
         "transcription": "10/21/2013",
-        "label": 0,
+        "label": "other",
         "points": [
             82.78260869565217,
             24.383561643835616,
@@ -97,7 +97,7 @@
     },
     {
         "transcription": "B04/23/1962",
-        "label": 1,
+        "label": "1",
         "points": [
             36.17391304347826,
             29.041095890410958,
@@ -109,7 +109,7 @@
     },
     {
         "transcription": "4bEXP 04/23/2019",
-        "label": 0,
+        "label": "other",
         "points": [
             74.43478260869566,
             30.684931506849313,
@@ -121,7 +121,7 @@
     },
     {
         "transcription": "SAMPLE",
-        "label": 4,
+        "label": "4",
         "points": [
             38.608695652173914,
             36.16438356164384,
@@ -133,7 +133,7 @@
     },
     {
         "transcription": "2TESTONE",
-        "label": 3,
+        "label": "3",
         "points": [
             36.34782608695652,
             40.54794520547945,
@@ -145,7 +145,7 @@
     },
     {
         "transcription": "RR2",
-        "label": 2,
+        "label": "2",
         "points": [
             38.43478260869565,
             46.84931506849315,
@@ -157,7 +157,7 @@
     },
     {
         "transcription": "HOLTON,KS 66436",
-        "label": 2,
+        "label": "2",
         "points": [
             38.95652173913044,
             50.41095890410959,
@@ -169,7 +169,7 @@
     },
     {
         "transcription": "CLASSAM",
-        "label": 0,
+        "label": "other",
         "points": [
             39.130434782608695,
             58.63013698630137,
@@ -181,7 +181,7 @@
     },
     {
         "transcription": "9a END NONE",
-        "label": 0,
+        "label": "other",
         "points": [
             56.69565217391305,
             59.178082191780824,
@@ -193,7 +193,7 @@
     },
     {
         "transcription": "12 REST WBJ",
-        "label": 0,
+        "label": "other",
         "points": [
             56.869565217391305,
             63.013698630136986,
@@ -205,7 +205,7 @@
     },
     {
         "transcription": "15SEXM",
-        "label": 0,
+        "label": "other",
         "points": [
             37.04347826086956,
             68.21917808219177,
@@ -217,7 +217,7 @@
     },
     {
         "transcription": "16HGT",
-        "label": 0,
+        "label": "other",
         "points": [
             37.04347826086956,
             73.42465753424658,
@@ -229,7 +229,7 @@
     },
     {
         "transcription": "510",
-        "label": 0,
+        "label": "other",
         "points": [
             45.391304347826086,
             72.32876712328768,
@@ -241,7 +241,7 @@
     },
     {
         "transcription": "04/23/62",
-        "label": 0,
+        "label": "other",
         "points": [
             57.21739130434783,
             73.97260273972603,
@@ -253,7 +253,7 @@
     },
     {
         "transcription": "17 WGT 180 Ib",
-        "label": 0,
+        "label": "other",
         "points": [
             37.04347826086956,
             77.26027397260275,
@@ -265,7 +265,7 @@
     },
     {
         "transcription": "ganicetfample",
-        "label": 0,
+        "label": "other",
         "points": [
             4.869565217391305,
             80.27397260273973,
@@ -277,7 +277,7 @@
     },
     {
         "transcription": "18EYES BLU",
-        "label": 0,
+        "label": "other",
         "points": [
             36.52173913043478,
             81.0958904109589,
@@ -289,7 +289,7 @@
     },
     {
         "transcription": "DD 62941433152",
-        "label": 0,
+        "label": "other",
         "points": [
             40,
             86.84931506849315,
@@ -301,7 +301,7 @@
     },
     {
         "transcription": "ST17165M1923DB",
-        "label": 0,
+        "label": "other",
         "points": [
             40,
             90.68493150684931,
@@ -313,7 +313,7 @@
     },
     {
         "transcription": "DONOR",
-        "label": 0,
+        "label": "other",
         "points": [
             60.52173913043478,
             88.21917808219177,

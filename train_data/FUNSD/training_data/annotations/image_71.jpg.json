@@ -1,7 +1,7 @@
 [
     {
         "transcription": "NEWMEXICO",
-        "label": 0,
+        "label": "other",
         "points": [
             22.166666666666668,
             11.688311688311689,
@@ -13,7 +13,7 @@
     },
     {
         "transcription": "DRIVERSLICENSE",
-        "label": 0,
+        "label": "other",
         "points": [
             68.33333333333333,
             22.337662337662337,
@@ -25,7 +25,7 @@
     },
     {
         "transcription": "License# 123456789",
-        "label": 0,
+        "label": "other",
         "points": [
             31.5,
             26.493506493506494,
@@ -37,7 +37,7 @@
     },
     {
         "transcription": "ISSUED03/01/2007",
-        "label": 1,
+        "label": "1",
         "points": [
             67.16666666666667,
             27.532467532467532,
@@ -49,7 +49,7 @@
     },
     {
         "transcription": "Date of Birth 03/01/1957",
-        "label": 0,
+        "label": "other",
         "points": [
             31.5,
             32.20779220779221,
@@ -61,7 +61,7 @@
     },
     {
         "transcription": "EXPIRES03/01/2011",
-        "label": 4,
+        "label": "4",
         "points": [
             67,
             32.98701298701299,
@@ -73,7 +73,7 @@
     },
     {
         "transcription": "SAMPLE",
-        "label": 3,
+        "label": "3",
         "points": [
             31.5,
             38.96103896103896,
@@ -85,7 +85,7 @@
     },
     {
         "transcription": "LANI",
-        "label": 2,
+        "label": "2",
         "points": [
             31.333333333333332,
             44.41558441558441,
@@ -97,7 +97,7 @@
     },
     {
         "transcription": "123 STATE STREET",
-        "label": 2,
+        "label": "2",
         "points": [
             31.833333333333332,
             57.142857142857146,
@@ -109,7 +109,7 @@
     },
     {
         "transcription": "ALBUQUERQUENM 87102",
-        "label": 0,
+        "label": "other",
         "points": [
             31.666666666666668,
             61.55844155844156,
@@ -121,7 +121,7 @@
     },
     {
         "transcription": "SEXF",
-        "label": 0,
+        "label": "other",
         "points": [
             36,
             71.68831168831169,
@@ -133,7 +133,7 @@
     },
     {
         "transcription": "HEIGHT 504",
-        "label": 0,
+        "label": "other",
         "points": [
             61.166666666666664,
             71.94805194805195,
@@ -145,7 +145,7 @@
     },
     {
         "transcription": "taneLampl.",
-        "label": 0,
+        "label": "other",
         "points": [
             4.166666666666667,
             79.22077922077922,
@@ -157,7 +157,7 @@
     },
     {
         "transcription": "WEIGHT 110",
-        "label": 0,
+        "label": "other",
         "points": [
             36,
             77.14285714285714,
@@ -169,7 +169,7 @@
     },
     {
         "transcription": "EYES-BRO",
-        "label": 0,
+        "label": "other",
         "points": [
             61.333333333333336,
             77.40259740259741,
@@ -181,7 +181,7 @@
     },
     {
         "transcription": "CLASSD",
-        "label": 0,
+        "label": "other",
         "points": [
             36,
             82.85714285714286,
@@ -193,7 +193,7 @@
     },
     {
         "transcription": "ENDORSEMENTSNONE",
-        "label": 0,
+        "label": "other",
         "points": [
             61,
             82.59740259740259,
@@ -205,7 +205,7 @@
     },
     {
         "transcription": "DONOR",
-        "label": 0,
+        "label": "other",
         "points": [
             36.166666666666664,
             88.05194805194805,

@@ -1,7 +1,7 @@
 [
     {
         "transcription": "KENTUCKYDRIVERS LICENSE",
-        "label": 0,
+        "label": "other",
         "points": [
             7.49063670411985,
             16.708229426433917,
@@ -13,7 +13,7 @@
     },
     {
         "transcription": "OKS80",
-        "label": 0,
+        "label": "other",
         "points": [
             75.84269662921348,
             26.184538653366584,
@@ -25,7 +25,7 @@
     },
     {
         "transcription": "SAMPLE",
-        "label": 0,
+        "label": "other",
         "points": [
             6.367041198501872,
             32.418952618453865,
@@ -37,7 +37,7 @@
     },
     {
         "transcription": "4DLN S00-000-001",
-        "label": 0,
+        "label": "other",
         "points": [
             30.711610486891384,
             29.42643391521197,
@@ -49,7 +49,7 @@
     },
     {
         "transcription": "SAMPLE",
-        "label": 4,
+        "label": "4",
         "points": [
             32.20973782771536,
             38.15461346633416,
@@ -61,7 +61,7 @@
     },
     {
         "transcription": "2KIM",
-        "label": 3,
+        "label": "3",
         "points": [
             31.835205992509362,
             41.64588528678304,
@@ -73,7 +73,7 @@
     },
     {
         "transcription": "8123 CONFIDENTAVE",
-        "label": 2,
+        "label": "2",
         "points": [
             31.647940074906366,
             44.88778054862843,
@@ -85,7 +85,7 @@
     },
     {
         "transcription": "FRANKFORT,KY 40622",
-        "label": 2,
+        "label": "2",
         "points": [
             32.95880149812734,
             47.63092269326683,
@@ -97,7 +97,7 @@
     },
     {
         "transcription": "30OB07/15/1980",
-        "label": 1,
+        "label": "1",
         "points": [
             51.12359550561798,
             53.86533665835412,
@@ -109,7 +109,7 @@
     },
     {
         "transcription": "bEX02/15/2027",
-        "label": 0,
+        "label": "other",
         "points": [
             50.18726591760299,
             58.85286783042394,
@@ -121,7 +121,7 @@
     },
     {
         "transcription": "9CLASS D",
-        "label": 0,
+        "label": "other",
         "points": [
             51.31086142322097,
             65.08728179551122,
@@ -133,7 +133,7 @@
     },
     {
         "transcription": "9aEND NONE",
-        "label": 0,
+        "label": "other",
         "points": [
             50.37453183520599,
             68.3291770573566,
@@ -145,7 +145,7 @@
     },
     {
         "transcription": "CRC",
-        "label": 0,
+        "label": "other",
         "points": [
             68.16479400749064,
             67.58104738154613,
@@ -157,7 +157,7 @@
     },
     {
         "transcription": "12RES1",
-        "label": 0,
+        "label": "other",
         "points": [
             50.749063670411985,
             72.31920199501246,
@@ -169,7 +169,7 @@
     },
     {
         "transcription": "dumBample",
-        "label": 0,
+        "label": "other",
         "points": [
             5.805243445692884,
             76.80798004987531,
@@ -181,7 +181,7 @@
     },
     {
         "transcription": "15SEXF",
-        "label": 0,
+        "label": "other",
         "points": [
             32.02247191011236,
             79.05236907730674,
@@ -193,7 +193,7 @@
     },
     {
         "transcription": "16HGT 5-05",
-        "label": 0,
+        "label": "other",
         "points": [
             43.07116104868914,
             79.05236907730674,
@@ -205,7 +205,7 @@
     },
     {
         "transcription": "18EYES BRO",
-        "label": 0,
+        "label": "other",
         "points": [
             58.98876404494382,
             79.05236907730674,
@@ -217,7 +217,7 @@
     },
     {
         "transcription": "5 DD S00000001CL10234 090-0",
-        "label": 0,
+        "label": "other",
         "points": [
             32.39700374531835,
             82.7930174563591,
@@ -229,7 +229,7 @@
     },
     {
         "transcription": "ADO",
-        "label": 0,
+        "label": "other",
         "points": [
             66.29213483146067,
             83.0423940149626,
@@ -241,7 +241,7 @@
     },
     {
         "transcription": "02/15/2019",
-        "label": 0,
+        "label": "other",
         "points": [
             75.28089887640449,
             81.54613466334165,

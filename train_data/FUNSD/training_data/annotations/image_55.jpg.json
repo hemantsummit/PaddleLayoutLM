@@ -1,7 +1,7 @@
 [
     {
         "transcription": "MINNeSOTA",
-        "label": 0,
+        "label": "other",
         "points": [
             20.166666666666668,
             11.16751269035533,
@@ -13,7 +13,7 @@
     },
     {
         "transcription": "DRIENSS",
-        "label": 0,
+        "label": "other",
         "points": [
             61.166666666666664,
             10.406091370558375,
@@ -25,7 +25,7 @@
     },
     {
         "transcription": "USA",
-        "label": 4,
+        "label": "4",
         "points": [
             5.333333333333333,
             17.00507614213198,
@@ -37,7 +37,7 @@
     },
     {
         "transcription": "SAMPLE",
-        "label": 3,
+        "label": "3",
         "points": [
             32.5,
             24.873096446700508,
@@ -49,7 +49,7 @@
     },
     {
         "transcription": "2AVERYJOSEPH",
-        "label": 2,
+        "label": "2",
         "points": [
             31.666666666666668,
             29.18781725888325,
@@ -61,7 +61,7 @@
     },
     {
         "transcription": "8456 BLOOMINGTON AVE",
-        "label": 2,
+        "label": "2",
         "points": [
             32,
             33.50253807106599,
@@ -73,7 +73,7 @@
     },
     {
         "transcription": "MINNEAPOLIS,MN55417-1234",
-        "label": 0,
+        "label": "other",
         "points": [
             33.5,
             37.56345177664975,
@@ -85,7 +85,7 @@
     },
     {
         "transcription": "4dDL#A123-456-789-123",
-        "label": 0,
+        "label": "other",
         "points": [
             31.666666666666668,
             44.923857868020306,
@@ -97,7 +97,7 @@
     },
     {
         "transcription": "4aISS",
-        "label": 0,
+        "label": "other",
         "points": [
             69.83333333333333,
             47.46192893401015,
@@ -109,7 +109,7 @@
     },
     {
         "transcription": "08/15/2018",
-        "label": 1,
+        "label": "1",
         "points": [
             77.83333333333333,
             46.7005076142132,
@@ -121,7 +121,7 @@
     },
     {
         "transcription": "3 DOB 08/15/1957",
-        "label": 0,
+        "label": "other",
         "points": [
             31.5,
             50,
@@ -133,7 +133,7 @@
     },
     {
         "transcription": "4bEXP08/15/2022",
-        "label": 0,
+        "label": "other",
         "points": [
             70.33333333333333,
             51.26903553299493,
@@ -145,7 +145,7 @@
     },
     {
         "transcription": "9CLASS D",
-        "label": 0,
+        "label": "other",
         "points": [
             32,
             56.598984771573605,
@@ -157,7 +157,7 @@
     },
     {
         "transcription": "9aEND NONE",
-        "label": 0,
+        "label": "other",
         "points": [
             56.333333333333336,
             55.076142131979694,
@@ -169,7 +169,7 @@
     },
     {
         "transcription": "12RESTR NONE",
-        "label": 0,
+        "label": "other",
         "points": [
             31.833333333333332,
             60.15228426395939,
@@ -181,7 +181,7 @@
     },
     {
         "transcription": "15SEX M",
-        "label": 0,
+        "label": "other",
         "points": [
             33.833333333333336,
             72.84263959390863,
@@ -193,7 +193,7 @@
     },
     {
         "transcription": "17WGT 150 Ib",
-        "label": 0,
+        "label": "other",
         "points": [
             56.333333333333336,
             73.09644670050761,
@@ -205,7 +205,7 @@
     },
     {
         "transcription": "Cwery Bample",
-        "label": 0,
+        "label": "other",
         "points": [
             5.833333333333333,
             80.20304568527919,
@@ -217,7 +217,7 @@
     },
     {
         "transcription": "16HGT 5-10",
-        "label": 0,
+        "label": "other",
         "points": [
             34.166666666666664,
             77.41116751269035,
@@ -229,7 +229,7 @@
     },
     {
         "transcription": "18EYES BLU",
-        "label": 0,
+        "label": "other",
         "points": [
             56.5,
             77.15736040609137,
@@ -241,7 +241,7 @@
     },
     {
         "transcription": "4",
-        "label": 0,
+        "label": "other",
         "points": [
             34,
             84.51776649746193,
@@ -253,7 +253,7 @@
     },
     {
         "transcription": "5 DD 12345678901234",
-        "label": 0,
+        "label": "other",
         "points": [
             34.666666666666664,
             84.01015228426395,

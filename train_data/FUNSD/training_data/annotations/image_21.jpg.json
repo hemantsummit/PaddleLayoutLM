@@ -1,7 +1,7 @@
 [
     {
         "transcription": "WPRAC",
-        "label": 0,
+        "label": "other",
         "points": [
             4.5,
             1.36986301369863,
@@ -13,7 +13,7 @@
     },
     {
         "transcription": "DL",
-        "label": 0,
+        "label": "other",
         "points": [
             30.5,
             4.109589041095891,
@@ -25,7 +25,7 @@
     },
     {
         "transcription": "COMMISSIONER",
-        "label": 0,
+        "label": "other",
         "points": [
             9.166666666666666,
             7.945205479452055,
@@ -37,7 +37,7 @@
     },
     {
         "transcription": "mmmecc",
-        "label": 0,
+        "label": "other",
         "points": [
             56.333333333333336,
             7.945205479452055,
@@ -49,7 +49,7 @@
     },
     {
         "transcription": "Class D",
-        "label": 0,
+        "label": "other",
         "points": [
             26.833333333333332,
             12.876712328767123,
@@ -61,7 +61,7 @@
     },
     {
         "transcription": "USA",
-        "label": 0,
+        "label": "other",
         "points": [
             77.33333333333333,
             15.068493150684931,
@@ -73,7 +73,7 @@
     },
     {
         "transcription": "DRIVERLICENSE",
-        "label": 0,
+        "label": "other",
         "points": [
             48.333333333333336,
             21.36986301369863,
@@ -85,7 +85,7 @@
     },
     {
         "transcription": "9Class:D",
-        "label": 0,
+        "label": "other",
         "points": [
             31.5,
             33.15068493150685,
@@ -97,7 +97,7 @@
     },
     {
         "transcription": "RestrNONE",
-        "label": 0,
+        "label": "other",
         "points": [
             49,
             33.15068493150685,
@@ -109,7 +109,7 @@
     },
     {
         "transcription": "9a Endors:NONE",
-        "label": 0,
+        "label": "other",
         "points": [
             73.16666666666667,
             32.87671232876713,
@@ -121,7 +121,7 @@
     },
     {
         "transcription": "4d Lic#",
-        "label": 0,
+        "label": "other",
         "points": [
             33.333333333333336,
             42.73972602739726,
@@ -133,7 +133,7 @@
     },
     {
         "transcription": "787878787",
-        "label": 0,
+        "label": "other",
         "points": [
             47.333333333333336,
             41.36986301369863,
@@ -145,7 +145,7 @@
     },
     {
         "transcription": "15SexF",
-        "label": 0,
+        "label": "other",
         "points": [
             82.16666666666667,
             40.821917808219176,
@@ -157,7 +157,7 @@
     },
     {
         "transcription": "05-30-1978",
-        "label": 1,
+        "label": "1",
         "points": [
             47.166666666666664,
             49.31506849315068,
@@ -169,7 +169,7 @@
     },
     {
         "transcription": "16Ht",
-        "label": 0,
+        "label": "other",
         "points": [
             82.16666666666667,
             47.397260273972606,
@@ -181,7 +181,7 @@
     },
     {
         "transcription": "61 in",
-        "label": 0,
+        "label": "other",
         "points": [
             90.83333333333333,
             46.84931506849315,
@@ -193,7 +193,7 @@
     },
     {
         "transcription": "3DOB",
-        "label": 0,
+        "label": "other",
         "points": [
             33.166666666666664,
             51.78082191780822,
@@ -205,7 +205,7 @@
     },
     {
         "transcription": "1Eyes:BLU",
-        "label": 0,
+        "label": "other",
         "points": [
             82.16666666666667,
             52.602739726027394,
@@ -217,7 +217,7 @@
     },
     {
         "transcription": "4bExpires",
-        "label": 0,
+        "label": "other",
         "points": [
             33.833333333333336,
             60.273972602739725,
@@ -229,7 +229,7 @@
     },
     {
         "transcription": "05-30-2015",
-        "label": 0,
+        "label": "other",
         "points": [
             47,
             58.63013698630137,
@@ -241,7 +241,7 @@
     },
     {
         "transcription": "Su l.Sapl",
-        "label": 0,
+        "label": "other",
         "points": [
             78.16666666666667,
             62.465753424657535,
@@ -253,7 +253,7 @@
     },
     {
         "transcription": "1SAMPLE",
-        "label": 4,
+        "label": "4",
         "points": [
             31.666666666666668,
             69.58904109589041,
@@ -265,7 +265,7 @@
     },
     {
         "transcription": "SUSAN CATHERINE",
-        "label": 3,
+        "label": "3",
         "points": [
             31.5,
             75.61643835616438,
@@ -277,7 +277,7 @@
     },
     {
         "transcription": "60 STATE STROOM 145",
-        "label": 2,
+        "label": "2",
         "points": [
             31.666666666666668,
             81.36986301369863,
@@ -289,7 +289,7 @@
     },
     {
         "transcription": "Jusen L.Sanale",
-        "label": 0,
+        "label": "other",
         "points": [
             0.8333333333333334,
             90.13698630136986,
@@ -301,7 +301,7 @@
     },
     {
         "transcription": "WETHERSFIELDCT06109",
-        "label": 2,
+        "label": "2",
         "points": [
             33.666666666666664,
             87.3972602739726,
@@ -313,7 +313,7 @@
     },
     {
         "transcription": "4alssued:05-30-2009",
-        "label": 0,
+        "label": "other",
         "points": [
             54.833333333333336,
             93.6986301369863,
@@ -325,7 +325,7 @@
     },
     {
         "transcription": "99",
-        "label": 0,
+        "label": "other",
         "points": [
             94.88208481965913,
             95.14700373006696,

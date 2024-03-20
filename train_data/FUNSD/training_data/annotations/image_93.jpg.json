@@ -1,7 +1,7 @@
 [
     {
         "transcription": "USA",
-        "label": 0,
+        "label": "other",
         "points": [
             91.33333333333333,
             5.9347181008902075,
@@ -13,7 +13,7 @@
     },
     {
         "transcription": "TN",
-        "label": 0,
+        "label": "other",
         "points": [
             92.5,
             8.308605341246292,
@@ -25,7 +25,7 @@
     },
     {
         "transcription": "DRIVERLICENSE",
-        "label": 0,
+        "label": "other",
         "points": [
             4,
             16.320474777448073,
@@ -37,7 +37,7 @@
     },
     {
         "transcription": "nneae",
-        "label": 0,
+        "label": "other",
         "points": [
             67.33333333333333,
             14.836795252225519,
@@ -49,7 +49,7 @@
     },
     {
         "transcription": "THEVOLUNTEERSTATE",
-        "label": 0,
+        "label": "other",
         "points": [
             60.166666666666664,
             21.958456973293767,
@@ -61,7 +61,7 @@
     },
     {
         "transcription": "DLNO",
-        "label": 0,
+        "label": "other",
         "points": [
             38.333333333333336,
             42.13649851632047,
@@ -73,7 +73,7 @@
     },
     {
         "transcription": "123456789",
-        "label": 0,
+        "label": "other",
         "points": [
             45,
             38.87240356083086,
@@ -85,7 +85,7 @@
     },
     {
         "transcription": "1",
-        "label": 0,
+        "label": "other",
         "points": [
             68.33333333333333,
             41.54302670623145,
@@ -97,7 +97,7 @@
     },
     {
         "transcription": "02/11/1974",
-        "label": 1,
+        "label": "1",
         "points": [
             74,
             39.46587537091988,
@@ -109,7 +109,7 @@
     },
     {
         "transcription": "EXP",
-        "label": 0,
+        "label": "other",
         "points": [
             38.333333333333336,
             48.07121661721068,
@@ -121,7 +121,7 @@
     },
     {
         "transcription": "02/11/2026",
-        "label": 0,
+        "label": "other",
         "points": [
             45.666666666666664,
             46.29080118694362,
@@ -133,7 +133,7 @@
     },
     {
         "transcription": "SAPEAE",
-        "label": 0,
+        "label": "other",
         "points": [
             4.666666666666667,
             49.85163204747774,
@@ -145,7 +145,7 @@
     },
     {
         "transcription": "ISS",
-        "label": 0,
+        "label": "other",
         "points": [
             68,
             46.58753709198813,
@@ -157,7 +157,7 @@
     },
     {
         "transcription": "02/11/2019",
-        "label": 0,
+        "label": "other",
         "points": [
             72.83333333333333,
             47.18100890207715,
@@ -169,7 +169,7 @@
     },
     {
         "transcription": "CLASS D",
-        "label": 0,
+        "label": "other",
         "points": [
             37.833333333333336,
             52.52225519287834,
@@ -181,7 +181,7 @@
     },
     {
         "transcription": "END NONE",
-        "label": 0,
+        "label": "other",
         "points": [
             57.666666666666664,
             52.81899109792285,
@@ -193,7 +193,7 @@
     },
     {
         "transcription": "REST",
-        "label": 0,
+        "label": "other",
         "points": [
             38.333333333333336,
             60.83086053412463,
@@ -205,7 +205,7 @@
     },
     {
         "transcription": "01",
-        "label": 0,
+        "label": "other",
         "points": [
             45.833333333333336,
             60.23738872403561,
@@ -217,7 +217,7 @@
     },
     {
         "transcription": "SEXFHGT5-05EYES",
-        "label": 0,
+        "label": "other",
         "points": [
             38.333333333333336,
             68.5459940652819,
@@ -229,7 +229,7 @@
     },
     {
         "transcription": "BLU",
-        "label": 0,
+        "label": "other",
         "points": [
             66.33333333333333,
             68.24925816023739,
@@ -241,7 +241,7 @@
     },
     {
         "transcription": "DD 1234567890123456",
-        "label": 0,
+        "label": "other",
         "points": [
             38.333333333333336,
             74.48071216617211,
@@ -253,7 +253,7 @@
     },
     {
         "transcription": "DI",
-        "label": 0,
+        "label": "other",
         "points": [
             75.66666666666667,
             75.07418397626112,
@@ -265,7 +265,7 @@
     },
     {
         "transcription": "SAMPLE",
-        "label": 4,
+        "label": "4",
         "points": [
             38.333333333333336,
             80.41543026706232,
@@ -277,7 +277,7 @@
     },
     {
         "transcription": "JANICE",
-        "label": 3,
+        "label": "3",
         "points": [
             38,
             85.7566765578635,
@@ -289,7 +289,7 @@
     },
     {
         "transcription": "123MAIN STREET",
-        "label": 2,
+        "label": "2",
         "points": [
             38.166666666666664,
             90.50445103857567,
@@ -301,7 +301,7 @@
     },
     {
         "transcription": "APT.1",
-        "label": 2,
+        "label": "2",
         "points": [
             38.333333333333336,
             95.54896142433235,

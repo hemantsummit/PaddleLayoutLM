@@ -1,7 +1,7 @@
 [
     {
         "transcription": "USA",
-        "label": 0,
+        "label": "other",
         "points": [
             91.83333333333333,
             1.5873015873015872,
@@ -13,7 +13,7 @@
     },
     {
         "transcription": "DISTRICOFCOLUMBIA",
-        "label": 0,
+        "label": "other",
         "points": [
             5.333333333333333,
             6.878306878306878,
@@ -25,7 +25,7 @@
     },
     {
         "transcription": "DL",
-        "label": 0,
+        "label": "other",
         "points": [
             74.33333333333333,
             7.142857142857143,
@@ -37,7 +37,7 @@
     },
     {
         "transcription": "DRIVERLICENSE",
-        "label": 0,
+        "label": "other",
         "points": [
             5.166666666666667,
             12.433862433862434,
@@ -49,7 +49,7 @@
     },
     {
         "transcription": "4d.DLN",
-        "label": 0,
+        "label": "other",
         "points": [
             31.666666666666668,
             18.78306878306878,
@@ -61,7 +61,7 @@
     },
     {
         "transcription": "4b.EXP",
-        "label": 0,
+        "label": "other",
         "points": [
             55,
             17.98941798941799,
@@ -73,7 +73,7 @@
     },
     {
         "transcription": "1234567",
-        "label": 0,
+        "label": "other",
         "points": [
             32,
             21.95767195767196,
@@ -85,7 +85,7 @@
     },
     {
         "transcription": "02/21/2021",
-        "label": 0,
+        "label": "other",
         "points": [
             55.666666666666664,
             21.95767195767196,
@@ -97,7 +97,7 @@
     },
     {
         "transcription": "1.FAMILY NAME",
-        "label": 0,
+        "label": "other",
         "points": [
             31.833333333333332,
             28.306878306878307,
@@ -109,7 +109,7 @@
     },
     {
         "transcription": "SAMPLECARD",
-        "label": 0,
+        "label": "other",
         "points": [
             31.833333333333332,
             32.01058201058201,
@@ -121,7 +121,7 @@
     },
     {
         "transcription": "2.GIVEN NAMES",
-        "label": 3,
+        "label": "3",
         "points": [
             31.5,
             36.77248677248677,
@@ -133,7 +133,7 @@
     },
     {
         "transcription": "THOMAS",
-        "label": 4,
+        "label": "4",
         "points": [
             32.166666666666664,
             40.74074074074074,
@@ -145,7 +145,7 @@
     },
     {
         "transcription": "ALEXANDER",
-        "label": 0,
+        "label": "other",
         "points": [
             31.833333333333332,
             44.44444444444444,
@@ -157,7 +157,7 @@
     },
     {
         "transcription": "8.ADDRESS",
-        "label": 2,
+        "label": "2",
         "points": [
             31.5,
             49.20634920634921,
@@ -169,7 +169,7 @@
     },
     {
         "transcription": "1234COMMODOREJOSHUA BARNEY DRIVE,NE",
-        "label": 2,
+        "label": "2",
         "points": [
             32,
             52.91005291005291,
@@ -181,7 +181,7 @@
     },
     {
         "transcription": "#1234",
-        "label": 2,
+        "label": "2",
         "points": [
             31.833333333333332,
             56.87830687830688,
@@ -193,7 +193,7 @@
     },
     {
         "transcription": "WASHINGTON.DC00000-0000",
-        "label": 0,
+        "label": "other",
         "points": [
             32,
             60.58201058201058,
@@ -205,7 +205,7 @@
     },
     {
         "transcription": "15.SEX",
-        "label": 0,
+        "label": "other",
         "points": [
             31.666666666666668,
             66.66666666666667,
@@ -217,7 +217,7 @@
     },
     {
         "transcription": "16.HGT",
-        "label": 0,
+        "label": "other",
         "points": [
             39.5,
             66.93121693121694,
@@ -229,7 +229,7 @@
     },
     {
         "transcription": "17.WGT",
-        "label": 0,
+        "label": "other",
         "points": [
             47.5,
             66.93121693121694,
@@ -241,7 +241,7 @@
     },
     {
         "transcription": "18.EYES",
-        "label": 0,
+        "label": "other",
         "points": [
             55.166666666666664,
             67.19576719576719,
@@ -253,7 +253,7 @@
     },
     {
         "transcription": "3.DOB",
-        "label": 0,
+        "label": "other",
         "points": [
             68.16666666666667,
             66.93121693121694,
@@ -265,7 +265,7 @@
     },
     {
         "transcription": "M",
-        "label": 0,
+        "label": "other",
         "points": [
             31.666666666666668,
             70.63492063492063,
@@ -277,7 +277,7 @@
     },
     {
         "transcription": "6-04",
-        "label": 0,
+        "label": "other",
         "points": [
             39.666666666666664,
             70.37037037037037,
@@ -289,7 +289,7 @@
     },
     {
         "transcription": "200",
-        "label": 0,
+        "label": "other",
         "points": [
             47.333333333333336,
             70.37037037037037,
@@ -301,7 +301,7 @@
     },
     {
         "transcription": "BRO",
-        "label": 1,
+        "label": "1",
         "points": [
             55.5,
             70.37037037037037,
@@ -313,7 +313,7 @@
     },
     {
         "transcription": "02/21/1984",
-        "label": 0,
+        "label": "other",
         "points": [
             68,
             69.84126984126983,
@@ -325,7 +325,7 @@
     },
     {
         "transcription": "9.CLASS",
-        "label": 0,
+        "label": "other",
         "points": [
             31.5,
             75.13227513227513,
@@ -337,7 +337,7 @@
     },
     {
         "transcription": "4a.ISS",
-        "label": 0,
+        "label": "other",
         "points": [
             68.33333333333333,
             75.13227513227513,
@@ -349,7 +349,7 @@
     },
     {
         "transcription": "TA SAMPLECARD",
-        "label": 0,
+        "label": "other",
         "points": [
             11,
             78.57142857142857,
@@ -361,7 +361,7 @@
     },
     {
         "transcription": "D",
-        "label": 0,
+        "label": "other",
         "points": [
             31.666666666666668,
             79.1005291005291,
@@ -373,7 +373,7 @@
     },
     {
         "transcription": "12/03/2013",
-        "label": 0,
+        "label": "other",
         "points": [
             68.5,
             78.57142857142857,
@@ -385,7 +385,7 @@
     },
     {
         "transcription": "9a.ENDORSEMENTS",
-        "label": 0,
+        "label": "other",
         "points": [
             31.333333333333332,
             83.86243386243386,
@@ -397,7 +397,7 @@
     },
     {
         "transcription": "NONE",
-        "label": 0,
+        "label": "other",
         "points": [
             31.833333333333332,
             87.3015873015873,
@@ -409,7 +409,7 @@
     },
     {
         "transcription": "DONOR",
-        "label": 0,
+        "label": "other",
         "points": [
             68.5,
             86.24338624338624,
@@ -421,7 +421,7 @@
     },
     {
         "transcription": "5.DD",
-        "label": 0,
+        "label": "other",
         "points": [
             2.1666666666666665,
             92.06349206349206,
@@ -433,7 +433,7 @@
     },
     {
         "transcription": "12.RESTRICTIONS",
-        "label": 0,
+        "label": "other",
         "points": [
             31.666666666666668,
             91.53439153439153,
@@ -445,7 +445,7 @@
     },
     {
         "transcription": "VETERAN",
-        "label": 0,
+        "label": "other",
         "points": [
             68.33333333333333,
             91.005291005291,

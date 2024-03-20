@@ -1,7 +1,7 @@
 [
     {
         "transcription": "VASSACHUSETTS",
-        "label": 0,
+        "label": "other",
         "points": [
             7.547169811320755,
             8.823529411764707,
@@ -13,7 +13,7 @@
     },
     {
         "transcription": "DRIVERS",
-        "label": 0,
+        "label": "other",
         "points": [
             62.64150943396226,
             10.294117647058824,
@@ -25,7 +25,7 @@
     },
     {
         "transcription": "LICENSE",
-        "label": 0,
+        "label": "other",
         "points": [
             63.0188679245283,
             15,
@@ -37,7 +37,7 @@
     },
     {
         "transcription": "CXN",
-        "label": 0,
+        "label": "other",
         "points": [
             88.49056603773585,
             20.58823529411765,
@@ -49,7 +49,7 @@
     },
     {
         "transcription": "1SS",
-        "label": 0,
+        "label": "other",
         "points": [
             56.0377358490566,
             29.705882352941178,
@@ -61,7 +61,7 @@
     },
     {
         "transcription": "03/26/2018",
-        "label": 0,
+        "label": "other",
         "points": [
             56.22641509433962,
             31.764705882352942,
@@ -73,7 +73,7 @@
     },
     {
         "transcription": "S99988801",
-        "label": 0,
+        "label": "other",
         "points": [
             75.84905660377359,
             32.05882352941177,
@@ -85,7 +85,7 @@
     },
     {
         "transcription": "IUMBER",
-        "label": 0,
+        "label": "other",
         "points": [
             76.79245283018868,
             29.41176470588235,
@@ -97,7 +97,7 @@
     },
     {
         "transcription": "01/12/2023",
-        "label": 0,
+        "label": "other",
         "points": [
             56.22641509433962,
             39.705882352941174,
@@ -109,7 +109,7 @@
     },
     {
         "transcription": "01/12/1983",
-        "label": 1,
+        "label": "1",
         "points": [
             75.66037735849056,
             40.294117647058826,
@@ -121,7 +121,7 @@
     },
     {
         "transcription": "DOE",
-        "label": 0,
+        "label": "other",
         "points": [
             76.22641509433963,
             37.94117647058823,
@@ -133,7 +133,7 @@
     },
     {
         "transcription": "CS8",
-        "label": 0,
+        "label": "other",
         "points": [
             45.094339622641506,
             42.94117647058823,
@@ -145,7 +145,7 @@
     },
     {
         "transcription": "12",
-        "label": 0,
+        "label": "other",
         "points": [
             63.58490566037736,
             46.76470588235294,
@@ -157,7 +157,7 @@
     },
     {
         "transcription": "NONE",
-        "label": 0,
+        "label": "other",
         "points": [
             65.09433962264151,
             45.88235294117647,
@@ -169,7 +169,7 @@
     },
     {
         "transcription": "NONE",
-        "label": 0,
+        "label": "other",
         "points": [
             78.67924528301887,
             46.1764705882353,
@@ -181,7 +181,7 @@
     },
     {
         "transcription": "SAMPLE",
-        "label": 4,
+        "label": "4",
         "points": [
             43.39622641509434,
             54.11764705882353,
@@ -193,7 +193,7 @@
     },
     {
         "transcription": "CONNOR",
-        "label": 3,
+        "label": "3",
         "points": [
             43.58490566037736,
             60,
@@ -205,7 +205,7 @@
     },
     {
         "transcription": "123NORTH MAIN STREET",
-        "label": 2,
+        "label": "2",
         "points": [
             43.77358490566038,
             65.29411764705883,
@@ -217,7 +217,7 @@
     },
     {
         "transcription": "APT1",
-        "label": 2,
+        "label": "2",
         "points": [
             43.9622641509434,
             70,
@@ -229,7 +229,7 @@
     },
     {
         "transcription": "NORTH QUINCY,MA 02171-1748",
-        "label": 2,
+        "label": "2",
         "points": [
             43.9622641509434,
             74.11764705882354,
@@ -241,7 +241,7 @@
     },
     {
         "transcription": "ConmorSample",
-        "label": 0,
+        "label": "other",
         "points": [
             6.415094339622642,
             79.70588235294117,
@@ -253,7 +253,7 @@
     },
     {
         "transcription": "18EYESBLUVETER",
-        "label": 0,
+        "label": "other",
         "points": [
             44.339622641509436,
             77.94117647058823,
@@ -265,7 +265,7 @@
     },
     {
         "transcription": "15SEXM1HGT 6-04N",
-        "label": 0,
+        "label": "other",
         "points": [
             44.339622641509436,
             82.3529411764706,
@@ -277,7 +277,7 @@
     },
     {
         "transcription": "01/12/83",
-        "label": 1,
+        "label": "1",
         "points": [
             76.41509433962264,
             84.70588235294117,
@@ -289,7 +289,7 @@
     },
     {
         "transcription": "5 DD 03/26/2018 Rev02/22/2016",
-        "label": 0,
+        "label": "other",
         "points": [
             45.660377358490564,
             88.82352941176471,

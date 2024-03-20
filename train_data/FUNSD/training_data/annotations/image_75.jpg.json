@@ -1,7 +1,7 @@
 [
     {
         "transcription": "NORTHCAROLINA",
-        "label": 0,
+        "label": "other",
         "points": [
             5.333333333333333,
             9.367088607594937,
@@ -13,7 +13,7 @@
     },
     {
         "transcription": "IDENTIFICATION",
-        "label": 0,
+        "label": "other",
         "points": [
             55.5,
             9.113924050632912,
@@ -25,7 +25,7 @@
     },
     {
         "transcription": "CARD",
-        "label": 0,
+        "label": "other",
         "points": [
             65.16666666666667,
             14.430379746835444,
@@ -37,7 +37,7 @@
     },
     {
         "transcription": "1a7",
-        "label": 0,
+        "label": "other",
         "points": [
             9.666666666666666,
             16.70886075949367,
@@ -49,7 +49,7 @@
     },
     {
         "transcription": "NOT FOR FEDERALIDENTIFICATION",
-        "label": 0,
+        "label": "other",
         "points": [
             44,
             19.746835443037973,
@@ -61,7 +61,7 @@
     },
     {
         "transcription": "COMMSSIONERORMOTORVEHCEES",
-        "label": 0,
+        "label": "other",
         "points": [
             5.833333333333333,
             24.556962025316455,
@@ -73,7 +73,7 @@
     },
     {
         "transcription": "4dIDN",
-        "label": 0,
+        "label": "other",
         "points": [
             32.666666666666664,
             29.367088607594937,
@@ -85,7 +85,7 @@
     },
     {
         "transcription": "300038099904",
-        "label": 0,
+        "label": "other",
         "points": [
             41.333333333333336,
             28.354430379746834,
@@ -97,7 +97,7 @@
     },
     {
         "transcription": "1",
-        "label": 1,
+        "label": "1",
         "points": [
             69.66666666666667,
             28.60759493670886,
@@ -109,7 +109,7 @@
     },
     {
         "transcription": "06/17/1975",
-        "label": 1,
+        "label": "1",
         "points": [
             78.33333333333333,
             28.10126582278481,
@@ -121,7 +121,7 @@
     },
     {
         "transcription": "4hEXP",
-        "label": 0,
+        "label": "other",
         "points": [
             70.33333333333333,
             32.65822784810127,
@@ -133,7 +133,7 @@
     },
     {
         "transcription": "06/17/2025",
-        "label": 0,
+        "label": "other",
         "points": [
             78.33333333333333,
             32.65822784810127,
@@ -145,7 +145,7 @@
     },
     {
         "transcription": "DOE",
-        "label": 4,
+        "label": "4",
         "points": [
             35,
             38.48101265822785,
@@ -157,7 +157,7 @@
     },
     {
         "transcription": "JEFFERYJAMES",
-        "label": 3,
+        "label": "3",
         "points": [
             34.5,
             42.0253164556962,
@@ -169,7 +169,7 @@
     },
     {
         "transcription": "8 1100NEWBERNAVE",
-        "label": 2,
+        "label": "2",
         "points": [
             32.333333333333336,
             48.10126582278481,
@@ -181,7 +181,7 @@
     },
     {
         "transcription": "RALEIGH,NC27697-0002",
-        "label": 2,
+        "label": "2",
         "points": [
             34.666666666666664,
             52.40506329113924,
@@ -193,7 +193,7 @@
     },
     {
         "transcription": "15SEXM",
-        "label": 0,
+        "label": "other",
         "points": [
             33,
             72.9113924050633,
@@ -205,7 +205,7 @@
     },
     {
         "transcription": "18EYES",
-        "label": 0,
+        "label": "other",
         "points": [
             48,
             73.16455696202532,
@@ -217,7 +217,7 @@
     },
     {
         "transcription": "BLU",
-        "label": 0,
+        "label": "other",
         "points": [
             56.166666666666664,
             72.9113924050633,
@@ -229,7 +229,7 @@
     },
     {
         "transcription": "16HIGT5-07",
-        "label": 0,
+        "label": "other",
         "points": [
             32.666666666666664,
             76.20253164556962,
@@ -241,7 +241,7 @@
     },
     {
         "transcription": "19HAIR",
-        "label": 0,
+        "label": "other",
         "points": [
             47.666666666666664,
             76.9620253164557,
@@ -253,7 +253,7 @@
     },
     {
         "transcription": "BRO",
-        "label": 0,
+        "label": "other",
         "points": [
             56.333333333333336,
             76.45569620253164,
@@ -265,7 +265,7 @@
     },
     {
         "transcription": "RACEW",
-        "label": 0,
+        "label": "other",
         "points": [
             63.166666666666664,
             76.45569620253164,
@@ -277,7 +277,7 @@
     },
     {
         "transcription": "Seflurf Doe",
-        "label": 0,
+        "label": "other",
         "points": [
             5.333333333333333,
             81.26582278481013,
@@ -289,7 +289,7 @@
     },
     {
         "transcription": "4aJSS",
-        "label": 0,
+        "label": "other",
         "points": [
             32.666666666666664,
             84.30379746835443,
@@ -301,7 +301,7 @@
     },
     {
         "transcription": "02/13/2017",
-        "label": 0,
+        "label": "other",
         "points": [
             39,
             83.79746835443038,
@@ -313,7 +313,7 @@
     },
     {
         "transcription": "SDb3001809365",
-        "label": 0,
+        "label": "other",
         "points": [
             32.166666666666664,
             87.59493670886076,
@@ -325,7 +325,7 @@
     },
     {
         "transcription": "06/17/75",
-        "label": 0,
+        "label": "other",
         "points": [
             60.666666666666664,
             85.82278481012658,

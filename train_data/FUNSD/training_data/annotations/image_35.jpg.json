@@ -1,7 +1,7 @@
 [
     {
         "transcription": "ILLINOIS",
-        "label": 0,
+        "label": "other",
         "points": [
             8.833333333333334,
             9.974424552429667,
@@ -13,7 +13,7 @@
     },
     {
         "transcription": "Jesse White-Secretary of State",
-        "label": 0,
+        "label": "other",
         "points": [
             43.333333333333336,
             9.462915601023019,
@@ -25,7 +25,7 @@
     },
     {
         "transcription": "USA",
-        "label": 0,
+        "label": "other",
         "points": [
             88.16666666666667,
             10.997442455242966,
@@ -37,7 +37,7 @@
     },
     {
         "transcription": "DRIVERS LICENSE",
-        "label": 0,
+        "label": "other",
         "points": [
             44.666666666666664,
             14.578005115089514,
@@ -49,7 +49,7 @@
     },
     {
         "transcription": "Federal Limits Apply",
-        "label": 0,
+        "label": "other",
         "points": [
             49.333333333333336,
             19.69309462915601,
@@ -61,7 +61,7 @@
     },
     {
         "transcription": "4aLICNoP142-4558-7924",
-        "label": 0,
+        "label": "other",
         "points": [
             35.333333333333336,
             25.06393861892583,
@@ -73,7 +73,7 @@
     },
     {
         "transcription": "3",
-        "label": 0,
+        "label": "other",
         "points": [
             35.5,
             33.50383631713555,
@@ -85,7 +85,7 @@
     },
     {
         "transcription": "DOB11/14/1987",
-        "label": 1,
+        "label": "1",
         "points": [
             37,
             31.9693094629156,
@@ -97,7 +97,7 @@
     },
     {
         "transcription": "4bEXP11/14/2023",
-        "label": 0,
+        "label": "other",
         "points": [
             35,
             37.084398976982094,
@@ -109,7 +109,7 @@
     },
     {
         "transcription": "4aIss:01/01/2019",
-        "label": 0,
+        "label": "other",
         "points": [
             70.16666666666667,
             36.828644501278774,
@@ -121,7 +121,7 @@
     },
     {
         "transcription": "11",
-        "label": 0,
+        "label": "other",
         "points": [
             35.166666666666664,
             43.47826086956522,
@@ -133,7 +133,7 @@
     },
     {
         "transcription": "PUBLIC",
-        "label": 4,
+        "label": "4",
         "points": [
             37.5,
             42.966751918158565,
@@ -145,7 +145,7 @@
     },
     {
         "transcription": "2JANEQ",
-        "label": 3,
+        "label": "3",
         "points": [
             35.166666666666664,
             47.31457800511509,
@@ -157,7 +157,7 @@
     },
     {
         "transcription": "8 1234MAIN STREET",
-        "label": 2,
+        "label": "2",
         "points": [
             35.333333333333336,
             52.17391304347826,
@@ -169,7 +169,7 @@
     },
     {
         "transcription": "SPRINGFIELD.IL62723",
-        "label": 2,
+        "label": "2",
         "points": [
             37.833333333333336,
             55.75447570332481,
@@ -181,7 +181,7 @@
     },
     {
         "transcription": "9",
-        "label": 0,
+        "label": "other",
         "points": [
             35.5,
             64.70588235294117,
@@ -193,7 +193,7 @@
     },
     {
         "transcription": "CLAsS:D",
-        "label": 0,
+        "label": "other",
         "points": [
             37.666666666666664,
             63.42710997442455,
@@ -205,7 +205,7 @@
     },
     {
         "transcription": "9aENDNONE",
-        "label": 0,
+        "label": "other",
         "points": [
             54.666666666666664,
             63.42710997442455,
@@ -217,7 +217,7 @@
     },
     {
         "transcription": "12RESTNONE",
-        "label": 0,
+        "label": "other",
         "points": [
             35,
             68.0306905370844,
@@ -229,7 +229,7 @@
     },
     {
         "transcription": "DONOR",
-        "label": 0,
+        "label": "other",
         "points": [
             75,
             66.75191815856778,
@@ -241,7 +241,7 @@
     },
     {
         "transcription": "15SEXF",
-        "label": 0,
+        "label": "other",
         "points": [
             35.666666666666664,
             76.72634271099744,
@@ -253,7 +253,7 @@
     },
     {
         "transcription": "16HGT",
-        "label": 0,
+        "label": "other",
         "points": [
             54,
             78.26086956521739,
@@ -265,7 +265,7 @@
     },
     {
         "transcription": "5-06",
-        "label": 0,
+        "label": "other",
         "points": [
             61.833333333333336,
             76.47058823529412,
@@ -277,7 +277,7 @@
     },
     {
         "transcription": "YaneQPile",
-        "label": 0,
+        "label": "other",
         "points": [
             6,
             80.81841432225065,
@@ -289,7 +289,7 @@
     },
     {
         "transcription": "17WGT:145IbS18EYES:BRN",
-        "label": 0,
+        "label": "other",
         "points": [
             35.333333333333336,
             81.84143222506394,
@@ -301,7 +301,7 @@
     },
     {
         "transcription": "TYPE:ORG",
-        "label": 0,
+        "label": "other",
         "points": [
             72,
             82.3529411764706,
@@ -313,7 +313,7 @@
     },
     {
         "transcription": "5DD 20160210993DTO328",
-        "label": 0,
+        "label": "other",
         "points": [
             35.5,
             86.44501278772378,

@@ -1,7 +1,7 @@
 [
     {
         "transcription": "IOWA",
-        "label": 0,
+        "label": "other",
         "points": [
             6.5,
             3.9682539682539684,
@@ -13,7 +13,7 @@
     },
     {
         "transcription": "LIMITED-TERM",
-        "label": 0,
+        "label": "other",
         "points": [
             46.333333333333336,
             6.613756613756614,
@@ -25,7 +25,7 @@
     },
     {
         "transcription": "USA",
-        "label": 0,
+        "label": "other",
         "points": [
             91,
             4.497354497354498,
@@ -37,7 +37,7 @@
     },
     {
         "transcription": "?",
-        "label": 4,
+        "label": "4",
         "points": [
             88,
             7.936507936507937,
@@ -49,7 +49,7 @@
     },
     {
         "transcription": "DRIVERLICENSE",
-        "label": 0,
+        "label": "other",
         "points": [
             20,
             16.137566137566136,
@@ -61,7 +61,7 @@
     },
     {
         "transcription": "1SAMPLE",
-        "label": 3,
+        "label": "3",
         "points": [
             31.666666666666668,
             21.95767195767196,
@@ -73,7 +73,7 @@
     },
     {
         "transcription": "N",
-        "label": 2,
+        "label": "2",
         "points": [
             84,
             23.015873015873016,
@@ -85,7 +85,7 @@
     },
     {
         "transcription": "2MARK",
-        "label": 2,
+        "label": "2",
         "points": [
             31.333333333333332,
             26.19047619047619,
@@ -97,7 +97,7 @@
     },
     {
         "transcription": "8123NORTH STREET",
-        "label": 2,
+        "label": "2",
         "points": [
             31.5,
             34.65608465608466,
@@ -109,7 +109,7 @@
     },
     {
         "transcription": "APT201",
-        "label": 0,
+        "label": "other",
         "points": [
             33.666666666666664,
             38.62433862433863,
@@ -121,7 +121,7 @@
     },
     {
         "transcription": "DESMOINES.IA50301-1234",
-        "label": 0,
+        "label": "other",
         "points": [
             33.5,
             42.32804232804233,
@@ -133,7 +133,7 @@
     },
     {
         "transcription": "DLNo.123XX6789",
-        "label": 0,
+        "label": "other",
         "points": [
             31,
             46.82539682539682,
@@ -145,7 +145,7 @@
     },
     {
         "transcription": "4alss11/07/20164bExp01/12/2021",
-        "label": 0,
+        "label": "other",
         "points": [
             31,
             52.38095238095238,
@@ -157,7 +157,7 @@
     },
     {
         "transcription": "15 SexM 16Hgt5-0818Eyes BRO",
-        "label": 0,
+        "label": "other",
         "points": [
             31.333333333333332,
             57.93650793650794,
@@ -169,7 +169,7 @@
     },
     {
         "transcription": "9aEndNONE",
-        "label": 0,
+        "label": "other",
         "points": [
             41.833333333333336,
             63.22751322751323,
@@ -181,7 +181,7 @@
     },
     {
         "transcription": "12RestNONE",
-        "label": 0,
+        "label": "other",
         "points": [
             31.333333333333332,
             68.51851851851852,
@@ -193,7 +193,7 @@
     },
     {
         "transcription": "ADONOR",
-        "label": 0,
+        "label": "other",
         "points": [
             62.5,
             68.51851851851852,
@@ -205,7 +205,7 @@
     },
     {
         "transcription": "MEDALERT:",
-        "label": 0,
+        "label": "other",
         "points": [
             60.333333333333336,
             73.01587301587301,
@@ -217,7 +217,7 @@
     },
     {
         "transcription": "MankeSample",
-        "label": 1,
+        "label": "1",
         "points": [
             4.666666666666667,
             75.13227513227513,
@@ -229,7 +229,7 @@
     },
     {
         "transcription": "HEARINGIMP",
-        "label": 0,
+        "label": "other",
         "points": [
             58.333333333333336,
             75.39682539682539,
@@ -241,7 +241,7 @@
     },
     {
         "transcription": "DO01/12/1967",
-        "label": 0,
+        "label": "other",
         "points": [
             34.5,
             82.53968253968254,
@@ -253,7 +253,7 @@
     },
     {
         "transcription": "MEDADV",
-        "label": 1,
+        "label": "1",
         "points": [
             58.833333333333336,
             78.83597883597884,
@@ -265,7 +265,7 @@
     },
     {
         "transcription": "DIR",
-        "label": 0,
+        "label": "other",
         "points": [
             68.16666666666667,
             79.1005291005291,

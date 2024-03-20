@@ -1,7 +1,7 @@
 [
     {
         "transcription": "NeWHampshireDRIVER LICENSE",
-        "label": 0,
+        "label": "other",
         "points": [
             14.333333333333334,
             3.5608308605341246,
@@ -13,7 +13,7 @@
     },
     {
         "transcription": "4b EXPIRATION DATE",
-        "label": 0,
+        "label": "other",
         "points": [
             34.333333333333336,
             16.617210682492583,
@@ -25,7 +25,7 @@
     },
     {
         "transcription": "G CREDENTIALIDENTIFIER",
-        "label": 0,
+        "label": "other",
         "points": [
             57.833333333333336,
             16.617210682492583,
@@ -37,7 +37,7 @@
     },
     {
         "transcription": "01/02/2022",
-        "label": 0,
+        "label": "other",
         "points": [
             35.166666666666664,
             20.178041543026705,
@@ -49,7 +49,7 @@
     },
     {
         "transcription": "NHL12506717",
-        "label": 0,
+        "label": "other",
         "points": [
             59.166666666666664,
             21.068249258160236,
@@ -61,7 +61,7 @@
     },
     {
         "transcription": "FAMILY NAME",
-        "label": 0,
+        "label": "other",
         "points": [
             35.166666666666664,
             27.002967359050444,
@@ -73,7 +73,7 @@
     },
     {
         "transcription": "SAMPLE",
-        "label": 4,
+        "label": "4",
         "points": [
             35.5,
             30.86053412462908,
@@ -85,7 +85,7 @@
     },
     {
         "transcription": "2 GIVEN NAMES",
-        "label": 0,
+        "label": "other",
         "points": [
             34,
             35.90504451038576,
@@ -97,7 +97,7 @@
     },
     {
         "transcription": "HOLLY",
-        "label": 3,
+        "label": "3",
         "points": [
             35.333333333333336,
             39.46587537091988,
@@ -109,7 +109,7 @@
     },
     {
         "transcription": "23HAZEN DR",
-        "label": 2,
+        "label": "2",
         "points": [
             35,
             50.14836795252226,
@@ -121,7 +121,7 @@
     },
     {
         "transcription": "CONCORD.NH 03305",
-        "label": 2,
+        "label": "2",
         "points": [
             35.5,
             54.59940652818991,
@@ -133,7 +133,7 @@
     },
     {
         "transcription": "15SEX 16HGT",
-        "label": 0,
+        "label": "other",
         "points": [
             34.5,
             64.09495548961425,
@@ -145,7 +145,7 @@
     },
     {
         "transcription": "17-WGT",
-        "label": 0,
+        "label": "other",
         "points": [
             49.833333333333336,
             64.39169139465875,
@@ -157,7 +157,7 @@
     },
     {
         "transcription": "18EYES",
-        "label": 0,
+        "label": "other",
         "points": [
             59.166666666666664,
             64.68842729970326,
@@ -169,7 +169,7 @@
     },
     {
         "transcription": "19HAIR",
-        "label": 0,
+        "label": "other",
         "points": [
             68.16666666666667,
             64.68842729970326,
@@ -181,7 +181,7 @@
     },
     {
         "transcription": "F",
-        "label": 0,
+        "label": "other",
         "points": [
             36.666666666666664,
             68.24925816023739,
@@ -193,7 +193,7 @@
     },
     {
         "transcription": "5-05",
-        "label": 0,
+        "label": "other",
         "points": [
             41.166666666666664,
             67.95252225519287,
@@ -205,7 +205,7 @@
     },
     {
         "transcription": "125Ib",
-        "label": 0,
+        "label": "other",
         "points": [
             50.166666666666664,
             67.95252225519287,
@@ -217,7 +217,7 @@
     },
     {
         "transcription": "BLK",
-        "label": 0,
+        "label": "other",
         "points": [
             59.666666666666664,
             67.95252225519287,
@@ -229,7 +229,7 @@
     },
     {
         "transcription": "BLK",
-        "label": 0,
+        "label": "other",
         "points": [
             68.16666666666667,
             68.24925816023739,
@@ -241,7 +241,7 @@
     },
     {
         "transcription": "S00328290",
-        "label": 0,
+        "label": "other",
         "points": [
             90.5,
             65.57863501483679,
@@ -253,7 +253,7 @@
     },
     {
         "transcription": "taISSUE DATE",
-        "label": 0,
+        "label": "other",
         "points": [
             34.666666666666664,
             72.99703264094956,
@@ -265,7 +265,7 @@
     },
     {
         "transcription": "3DATE OFBIRTH",
-        "label": 0,
+        "label": "other",
         "points": [
             54.333333333333336,
             73.29376854599407,
@@ -277,7 +277,7 @@
     },
     {
         "transcription": "01/11/2017",
-        "label": 0,
+        "label": "other",
         "points": [
             35.333333333333336,
             77.1513353115727,
@@ -289,7 +289,7 @@
     },
     {
         "transcription": "01/02/1996",
-        "label": 1,
+        "label": "1",
         "points": [
             55.166666666666664,
             77.1513353115727,
@@ -301,7 +301,7 @@
     },
     {
         "transcription": "9CLASS D",
-        "label": 0,
+        "label": "other",
         "points": [
             34.333333333333336,
             82.19584569732937,
@@ -313,7 +313,7 @@
     },
     {
         "transcription": "tolws",
-        "label": 0,
+        "label": "other",
         "points": [
             9.5,
             88.13056379821958,
@@ -325,7 +325,7 @@
     },
     {
         "transcription": "1RESTRICTIONS",
-        "label": 0,
+        "label": "other",
         "points": [
             34.833333333333336,
             88.13056379821958,
@@ -337,7 +337,7 @@
     },
     {
         "transcription": "9a ENDORSEMENTS",
-        "label": 0,
+        "label": "other",
         "points": [
             54,
             88.4272997032641,
@@ -349,7 +349,7 @@
     },
     {
         "transcription": "NONE",
-        "label": 0,
+        "label": "other",
         "points": [
             35.5,
             92.28486646884274,
@@ -361,7 +361,7 @@
     },
     {
         "transcription": "NONE",
-        "label": 0,
+        "label": "other",
         "points": [
             54.666666666666664,
             92.28486646884274,
@@ -373,7 +373,7 @@
     },
     {
         "transcription": "VETENAN",
-        "label": 0,
+        "label": "other",
         "points": [
             86.16666666666667,
             89.91097922848665,

@@ -1,7 +1,7 @@
 [
     {
         "transcription": "Rhode Island",
-        "label": 0,
+        "label": "other",
         "points": [
             4.819277108433735,
             11.45374449339207,
@@ -13,7 +13,7 @@
     },
     {
         "transcription": "DRIVER LICENSE",
-        "label": 0,
+        "label": "other",
         "points": [
             47.28915662650602,
             12.775330396475772,
@@ -25,7 +25,7 @@
     },
     {
         "transcription": "0001/16/1964",
-        "label": 1,
+        "label": "1",
         "points": [
             33.13253012048193,
             29.955947136563875,
@@ -37,7 +37,7 @@
     },
     {
         "transcription": "V007989",
-        "label": 0,
+        "label": "other",
         "points": [
             61.144578313253014,
             29.515418502202643,
@@ -49,7 +49,7 @@
     },
     {
         "transcription": "01/16/2021",
-        "label": 0,
+        "label": "other",
         "points": [
             39.75903614457831,
             35.242290748898675,
@@ -61,7 +61,7 @@
     },
     {
         "transcription": "07/18/2016",
-        "label": 0,
+        "label": "other",
         "points": [
             61.44578313253012,
             34.801762114537446,
@@ -73,7 +73,7 @@
     },
     {
         "transcription": "SAMPLE",
-        "label": 4,
+        "label": "4",
         "points": [
             34.63855421686747,
             42.731277533039645,
@@ -85,7 +85,7 @@
     },
     {
         "transcription": "IAM",
-        "label": 3,
+        "label": "3",
         "points": [
             34.036144578313255,
             47.57709251101321,
@@ -97,7 +97,7 @@
     },
     {
         "transcription": "GOO NEW LONDON AV",
-        "label": 2,
+        "label": "2",
         "points": [
             34.33734939759036,
             52.42290748898679,
@@ -109,7 +109,7 @@
     },
     {
         "transcription": "CRANSTON.RIO2920",
-        "label": 2,
+        "label": "2",
         "points": [
             35.24096385542169,
             56.82819383259912,
@@ -121,7 +121,7 @@
     },
     {
         "transcription": "9CLASS 10",
-        "label": 0,
+        "label": "other",
         "points": [
             33.734939759036145,
             63.87665198237885,
@@ -133,7 +133,7 @@
     },
     {
         "transcription": "01/16/1964",
-        "label": 0,
+        "label": "other",
         "points": [
             78.3132530120482,
             62.99559471365639,
@@ -145,7 +145,7 @@
     },
     {
         "transcription": "12RESTR NONE",
-        "label": 0,
+        "label": "other",
         "points": [
             33.13253012048193,
             70.9251101321586,
@@ -157,7 +157,7 @@
     },
     {
         "transcription": "ENDNONE",
-        "label": 0,
+        "label": "other",
         "points": [
             33.433734939759034,
             67.84140969162996,
@@ -169,7 +169,7 @@
     },
     {
         "transcription": "155eXM",
-        "label": 0,
+        "label": "other",
         "points": [
             33.734939759036145,
             76.2114537444934,
@@ -181,7 +181,7 @@
     },
     {
         "transcription": "19HAIR UNK",
-        "label": 0,
+        "label": "other",
         "points": [
             64.1566265060241,
             79.73568281938326,
@@ -193,7 +193,7 @@
     },
     {
         "transcription": "YEBLU",
-        "label": 0,
+        "label": "other",
         "points": [
             66.26506024096386,
             76.2114537444934,
@@ -205,7 +205,7 @@
     },
     {
         "transcription": "VETERAN",
-        "label": 0,
+        "label": "other",
         "points": [
             74.39759036144578,
             84.14096916299559,

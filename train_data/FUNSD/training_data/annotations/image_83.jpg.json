@@ -1,7 +1,7 @@
 [
     {
         "transcription": "OREGON",
-        "label": 0,
+        "label": "other",
         "points": [
             3.678929765886288,
             5.357142857142857,
@@ -13,7 +13,7 @@
     },
     {
         "transcription": "DRIVEREICENSE",
-        "label": 0,
+        "label": "other",
         "points": [
             3.0100334448160537,
             16.071428571428573,
@@ -25,7 +25,7 @@
     },
     {
         "transcription": "A123456",
-        "label": 0,
+        "label": "other",
         "points": [
             40.468227424749166,
             22.61904761904762,
@@ -37,7 +37,7 @@
     },
     {
         "transcription": "CARD",
-        "label": 0,
+        "label": "other",
         "points": [
             36.45484949832776,
             28.571428571428573,
@@ -49,7 +49,7 @@
     },
     {
         "transcription": "OREGON SAMPLE,SR",
-        "label": 0,
+        "label": "other",
         "points": [
             37.792642140468224,
             34.523809523809526,
@@ -61,7 +61,7 @@
     },
     {
         "transcription": "1908LANA AVE NE",
-        "label": 2,
+        "label": "2",
         "points": [
             37.792642140468224,
             39.285714285714285,
@@ -73,7 +73,7 @@
     },
     {
         "transcription": "SALEM.OR.97314",
-        "label": 2,
+        "label": "2",
         "points": [
             38.12709030100334,
             47.023809523809526,
@@ -85,7 +85,7 @@
     },
     {
         "transcription": "2/12/2026",
-        "label": 0,
+        "label": "other",
         "points": [
             41.47157190635451,
             54.76190476190476,
@@ -97,7 +97,7 @@
     },
     {
         "transcription": "03/16/2018",
-        "label": 0,
+        "label": "other",
         "points": [
             39.46488294314381,
             61.904761904761905,
@@ -109,7 +109,7 @@
     },
     {
         "transcription": "03/16/2018",
-        "label": 0,
+        "label": "other",
         "points": [
             40.13377926421405,
             66.66666666666667,
@@ -121,7 +121,7 @@
     },
     {
         "transcription": "602",
-        "label": 0,
+        "label": "other",
         "points": [
             71.23745819397993,
             61.30952380952381,
@@ -133,7 +133,7 @@
     },
     {
         "transcription": "250Ib",
-        "label": 0,
+        "label": "other",
         "points": [
             74.24749163879599,
             66.66666666666667,
@@ -145,7 +145,7 @@
     },
     {
         "transcription": "BRO",
-        "label": 0,
+        "label": "other",
         "points": [
             74.91638795986623,
             72.61904761904762,
@@ -157,7 +157,7 @@
     },
     {
         "transcription": "M",
-        "label": 0,
+        "label": "other",
         "points": [
             33.11036789297659,
             83.92857142857143,
@@ -169,7 +169,7 @@
     },
     {
         "transcription": "12/121979",
-        "label": 1,
+        "label": "1",
         "points": [
             6.354515050167224,
             89.88095238095238,
@@ -181,7 +181,7 @@
     },
     {
         "transcription": "BD",
-        "label": 0,
+        "label": "other",
         "points": [
             39.46488294314381,
             89.88095238095238,
@@ -193,7 +193,7 @@
     },
     {
         "transcription": "VETERAN",
-        "label": 0,
+        "label": "other",
         "points": [
             69.89966555183946,
             90.47619047619048,

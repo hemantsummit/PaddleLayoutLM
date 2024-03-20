@@ -1,7 +1,7 @@
 [
     {
         "transcription": "NEWJERSEY",
-        "label": 0,
+        "label": "other",
         "points": [
             6.333333333333333,
             12.666666666666666,
@@ -13,7 +13,7 @@
     },
     {
         "transcription": "Motor Vehicle",
-        "label": 0,
+        "label": "other",
         "points": [
             46.666666666666664,
             13.555555555555555,
@@ -25,7 +25,7 @@
     },
     {
         "transcription": "Commission",
-        "label": 0,
+        "label": "other",
         "points": [
             47.5,
             16.444444444444443,
@@ -37,7 +37,7 @@
     },
     {
         "transcription": "AUTO DRIVERLICENSE",
-        "label": 0,
+        "label": "other",
         "points": [
             18,
             22.444444444444443,
@@ -49,7 +49,7 @@
     },
     {
         "transcription": "Chief Administrator",
-        "label": 0,
+        "label": "other",
         "points": [
             9.833333333333334,
             32.888888888888886,
@@ -61,7 +61,7 @@
     },
     {
         "transcription": "DL",
-        "label": 0,
+        "label": "other",
         "points": [
             37.833333333333336,
             33.55555555555556,
@@ -73,7 +73,7 @@
     },
     {
         "transcription": "X9999 99999 99999",
-        "label": 0,
+        "label": "other",
         "points": [
             43,
             32.666666666666664,
@@ -85,7 +85,7 @@
     },
     {
         "transcription": "CLASS D",
-        "label": 0,
+        "label": "other",
         "points": [
             78.83333333333333,
             32.888888888888886,
@@ -97,7 +97,7 @@
     },
     {
         "transcription": "1",
-        "label": 0,
+        "label": "other",
         "points": [
             38,
             37.55555555555556,
@@ -109,7 +109,7 @@
     },
     {
         "transcription": "05-20-1956",
-        "label": 0,
+        "label": "other",
         "points": [
             42.666666666666664,
             36.666666666666664,
@@ -121,7 +121,7 @@
     },
     {
         "transcription": "BOAT",
-        "label": 0,
+        "label": "other",
         "points": [
             79.33333333333333,
             36.888888888888886,
@@ -133,7 +133,7 @@
     },
     {
         "transcription": "ISS",
-        "label": 0,
+        "label": "other",
         "points": [
             37.833333333333336,
             41.333333333333336,
@@ -145,7 +145,7 @@
     },
     {
         "transcription": "05-20-2010",
-        "label": 0,
+        "label": "other",
         "points": [
             42.833333333333336,
             41.111111111111114,
@@ -157,7 +157,7 @@
     },
     {
         "transcription": "EXP 05-20-2014",
-        "label": 0,
+        "label": "other",
         "points": [
             70.66666666666667,
             41.111111111111114,
@@ -169,7 +169,7 @@
     },
     {
         "transcription": "LAST NAME,SUFIX",
-        "label": 0,
+        "label": "other",
         "points": [
             34.5,
             45.55555555555556,
@@ -181,7 +181,7 @@
     },
     {
         "transcription": "FIRST MIDDLE",
-        "label": 0,
+        "label": "other",
         "points": [
             34.666666666666664,
             49.333333333333336,
@@ -193,7 +193,7 @@
     },
     {
         "transcription": "123 NORTH STATE STREET",
-        "label": 2,
+        "label": "2",
         "points": [
             34.666666666666664,
             53.333333333333336,
@@ -205,7 +205,7 @@
     },
     {
         "transcription": "TRENTON.NJ 08666-1234",
-        "label": 0,
+        "label": "other",
         "points": [
             34.833333333333336,
             56.44444444444444,
@@ -217,7 +217,7 @@
     },
     {
         "transcription": "END NONE",
-        "label": 0,
+        "label": "other",
         "points": [
             34.5,
             60,
@@ -229,7 +229,7 @@
     },
     {
         "transcription": "RESTR NONE",
-        "label": 0,
+        "label": "other",
         "points": [
             34.166666666666664,
             63.111111111111114,
@@ -241,7 +241,7 @@
     },
     {
         "transcription": "aerx",
-        "label": 0,
+        "label": "other",
         "points": [
             56.333333333333336,
             70.22222222222223,
@@ -253,7 +253,7 @@
     },
     {
         "transcription": "ORGAN DONOR",
-        "label": 0,
+        "label": "other",
         "points": [
             77,
             77.33333333333333,
@@ -265,7 +265,7 @@
     },
     {
         "transcription": "WXUUEXXU",
-        "label": 0,
+        "label": "other",
         "points": [
             34.666666666666664,
             79.77777777777777,
@@ -277,7 +277,7 @@
     },
     {
         "transcription": "WR941920000470000",
-        "label": 0,
+        "label": "other",
         "points": [
             48.333333333333336,
             80,
@@ -289,7 +289,7 @@
     },
     {
         "transcription": "DUPO0005.00",
-        "label": 0,
+        "label": "other",
         "points": [
             71.16666666666667,
             80,

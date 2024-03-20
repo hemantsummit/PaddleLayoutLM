@@ -1,7 +1,7 @@
 [
     {
         "transcription": "ALASKA",
-        "label": 0,
+        "label": "other",
         "points": [
             3.6964980544747084,
             5.182926829268292,
@@ -13,7 +13,7 @@
     },
     {
         "transcription": "North to the Future",
-        "label": 0,
+        "label": "other",
         "points": [
             37.159533073929964,
             5.182926829268292,
@@ -25,7 +25,7 @@
     },
     {
         "transcription": "KDLY",
-        "label": 0,
+        "label": "other",
         "points": [
             88.715953307393,
             4.2682926829268295,
@@ -37,7 +37,7 @@
     },
     {
         "transcription": "DRIVERLICENSE",
-        "label": 0,
+        "label": "other",
         "points": [
             37.35408560311284,
             10.670731707317072,
@@ -49,7 +49,7 @@
     },
     {
         "transcription": "7158184",
-        "label": 0,
+        "label": "other",
         "points": [
             6.22568093385214,
             16.76829268292683,
@@ -61,7 +61,7 @@
     },
     {
         "transcription": "3.",
-        "label": 1,
+        "label": "1",
         "points": [
             31.90661478599222,
             19.817073170731707,
@@ -73,7 +73,7 @@
     },
     {
         "transcription": "07/11/1988",
-        "label": 1,
+        "label": "1",
         "points": [
             31.71206225680934,
             22.5609756097561,
@@ -85,7 +85,7 @@
     },
     {
         "transcription": "08/03/2018",
-        "label": 0,
+        "label": "other",
         "points": [
             49.80544747081712,
             22.865853658536587,
@@ -97,7 +97,7 @@
     },
     {
         "transcription": "4a.1Ss",
-        "label": 0,
+        "label": "other",
         "points": [
             50.19455252918288,
             20.121951219512194,
@@ -109,7 +109,7 @@
     },
     {
         "transcription": "07/11/2022",
-        "label": 0,
+        "label": "other",
         "points": [
             67.70428015564202,
             22.5609756097561,
@@ -121,7 +121,7 @@
     },
     {
         "transcription": "ALASKA",
-        "label": 4,
+        "label": "4",
         "points": [
             31.51750972762646,
             29.573170731707318,
@@ -133,7 +133,7 @@
     },
     {
         "transcription": "tastNam",
-        "label": 4,
+        "label": "4",
         "points": [
             32.295719844357976,
             27.74390243902439,
@@ -145,7 +145,7 @@
     },
     {
         "transcription": "Fstmidale name",
-        "label": 3,
+        "label": "3",
         "points": [
             32.1011673151751,
             35.36585365853659,
@@ -157,7 +157,7 @@
     },
     {
         "transcription": "TEST",
-        "label": 3,
+        "label": "3",
         "points": [
             32.1011673151751,
             38.71951219512195,
@@ -169,7 +169,7 @@
     },
     {
         "transcription": "8 Cardholder address",
-        "label": 0,
+        "label": "other",
         "points": [
             32.1011673151751,
             49.390243902439025,
@@ -181,7 +181,7 @@
     },
     {
         "transcription": "123 SAMPLE STREET",
-        "label": 2,
+        "label": "2",
         "points": [
             32.1011673151751,
             52.13414634146341,
@@ -193,7 +193,7 @@
     },
     {
         "transcription": "ANCHORAGE.AK9950",
-        "label": 2,
+        "label": "2",
         "points": [
             31.90661478599222,
             57.31707317073171,
@@ -205,7 +205,7 @@
     },
     {
         "transcription": "15SexF",
-        "label": 0,
+        "label": "other",
         "points": [
             31.71206225680934,
             67.6829268292683,
@@ -217,7 +217,7 @@
     },
     {
         "transcription": "18.Eyes GRN",
-        "label": 0,
+        "label": "other",
         "points": [
             51.55642023346304,
             67.3780487804878,
@@ -229,7 +229,7 @@
     },
     {
         "transcription": "16H7-07",
-        "label": 0,
+        "label": "other",
         "points": [
             31.90661478599222,
             73.17073170731707,
@@ -241,7 +241,7 @@
     },
     {
         "transcription": "1zwgt 440 Ib",
-        "label": 0,
+        "label": "other",
         "points": [
             51.55642023346304,
             73.47560975609755,
@@ -253,7 +253,7 @@
     },
     {
         "transcription": "9Class D",
-        "label": 0,
+        "label": "other",
         "points": [
             31.51750972762646,
             78.65853658536585,
@@ -265,7 +265,7 @@
     },
     {
         "transcription": "9a End",
-        "label": 0,
+        "label": "other",
         "points": [
             31.90661478599222,
             84.7560975609756,
@@ -277,7 +277,7 @@
     },
     {
         "transcription": "11163T3505180803CSYM-0 12.Rest",
-        "label": 0,
+        "label": "other",
         "points": [
             3.8910505836575875,
             89.63414634146342,

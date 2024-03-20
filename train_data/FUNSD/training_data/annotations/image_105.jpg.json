@@ -1,7 +1,7 @@
 [
     {
         "transcription": "West Virginia",
-        "label": 0,
+        "label": "other",
         "points": [
             23,
             2.9100529100529102,
@@ -13,7 +13,7 @@
     },
     {
         "transcription": "DL",
-        "label": 0,
+        "label": "other",
         "points": [
             81.16666666666667,
             5.555555555555555,
@@ -25,7 +25,7 @@
     },
     {
         "transcription": "GOVERNORErRay Tomin",
-        "label": 0,
+        "label": "other",
         "points": [
             25,
             12.433862433862434,
@@ -37,7 +37,7 @@
     },
     {
         "transcription": "4a.Iss:03/28/2016",
-        "label": 0,
+        "label": "other",
         "points": [
             2.1666666666666665,
             18.253968253968253,
@@ -49,7 +49,7 @@
     },
     {
         "transcription": "DRIVERSLICENSE",
-        "label": 0,
+        "label": "other",
         "points": [
             36.666666666666664,
             19.576719576719576,
@@ -61,7 +61,7 @@
     },
     {
         "transcription": "661",
-        "label": 0,
+        "label": "other",
         "points": [
             29.166666666666668,
             25.132275132275133,
@@ -73,7 +73,7 @@
     },
     {
         "transcription": "NOTFORFEDERALIDENTIFICATION",
-        "label": 0,
+        "label": "other",
         "points": [
             39.5,
             25.66137566137566,
@@ -85,7 +85,7 @@
     },
     {
         "transcription": "4d.Y999999",
-        "label": 0,
+        "label": "other",
         "points": [
             30.833333333333332,
             31.48148148148148,
@@ -97,7 +97,7 @@
     },
     {
         "transcription": "9.CI3",
-        "label": 0,
+        "label": "other",
         "points": [
             75.5,
             34.65608465608466,
@@ -109,7 +109,7 @@
     },
     {
         "transcription": "4b.Exp:03/31/2021",
-        "label": 0,
+        "label": "other",
         "points": [
             31.5,
             42.857142857142854,
@@ -121,7 +121,7 @@
     },
     {
         "transcription": "9a.EnNONE",
-        "label": 0,
+        "label": "other",
         "points": [
             75.33333333333333,
             40.476190476190474,
@@ -133,7 +133,7 @@
     },
     {
         "transcription": "12.ReA",
-        "label": 0,
+        "label": "other",
         "points": [
             75.66666666666667,
             45.767195767195766,
@@ -145,7 +145,7 @@
     },
     {
         "transcription": "3.DOB:03/28/1996",
-        "label": 1,
+        "label": "1",
         "points": [
             33,
             51.58730158730159,
@@ -157,7 +157,7 @@
     },
     {
         "transcription": "16.Ht:5-07",
-        "label": 0,
+        "label": "other",
         "points": [
             75.66666666666667,
             56.87830687830688,
@@ -169,7 +169,7 @@
     },
     {
         "transcription": "5.20111027134449MARKS999999",
-        "label": 0,
+        "label": "other",
         "points": [
             33.5,
             59.78835978835979,
@@ -181,7 +181,7 @@
     },
     {
         "transcription": "17.Wt120",
-        "label": 0,
+        "label": "other",
         "points": [
             75.83333333333333,
             62.96296296296296,
@@ -193,7 +193,7 @@
     },
     {
         "transcription": "Jere Somele",
-        "label": 0,
+        "label": "other",
         "points": [
             32,
             68.51851851851852,
@@ -205,7 +205,7 @@
     },
     {
         "transcription": "18.Eye:GN",
-        "label": 0,
+        "label": "other",
         "points": [
             75.5,
             68.78306878306879,
@@ -217,7 +217,7 @@
     },
     {
         "transcription": "15.SexF",
-        "label": 0,
+        "label": "other",
         "points": [
             75.5,
             75.66137566137566,
@@ -229,7 +229,7 @@
     },
     {
         "transcription": "SAMPLE",
-        "label": 4,
+        "label": "4",
         "points": [
             5.333333333333333,
             79.62962962962963,
@@ -241,7 +241,7 @@
     },
     {
         "transcription": "TINAA",
-        "label": 3,
+        "label": "3",
         "points": [
             5.333333333333333,
             84.39153439153439,
@@ -253,7 +253,7 @@
     },
     {
         "transcription": "8.123ANYSTREET",
-        "label": 2,
+        "label": "2",
         "points": [
             2.8333333333333335,
             89.94708994708995,
@@ -265,7 +265,7 @@
     },
     {
         "transcription": "ANYCITY,AA 00000",
-        "label": 2,
+        "label": "2",
         "points": [
             6.166666666666667,
             94.17989417989418,

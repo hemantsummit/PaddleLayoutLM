@@ -1,7 +1,7 @@
 [
     {
         "transcription": "OPERATORLICENSE",
-        "label": 0,
+        "label": "other",
         "points": [
             48.5,
             12.339331619537274,
@@ -13,7 +13,7 @@
     },
     {
         "transcription": "USA SD",
-        "label": 0,
+        "label": "other",
         "points": [
             11,
             20.822622107969153,
@@ -25,7 +25,7 @@
     },
     {
         "transcription": "4dLIC.NO",
-        "label": 0,
+        "label": "other",
         "points": [
             29.5,
             25.70694087403599,
@@ -37,7 +37,7 @@
     },
     {
         "transcription": "12345678",
-        "label": 0,
+        "label": "other",
         "points": [
             43.166666666666664,
             23.90745501285347,
@@ -49,7 +49,7 @@
     },
     {
         "transcription": "4aISS",
-        "label": 0,
+        "label": "other",
         "points": [
             64.16666666666667,
             25.96401028277635,
@@ -61,7 +61,7 @@
     },
     {
         "transcription": "07/01/2009",
-        "label": 0,
+        "label": "other",
         "points": [
             72.83333333333333,
             24.67866323907455,
@@ -73,7 +73,7 @@
     },
     {
         "transcription": "1",
-        "label": 0,
+        "label": "other",
         "points": [
             34.5,
             31.619537275064268,
@@ -85,7 +85,7 @@
     },
     {
         "transcription": "07/01/1974",
-        "label": 1,
+        "label": "1",
         "points": [
             43.333333333333336,
             30.591259640102827,
@@ -97,7 +97,7 @@
     },
     {
         "transcription": "4b EXP",
-        "label": 0,
+        "label": "other",
         "points": [
             64.5,
             31.619537275064268,
@@ -109,7 +109,7 @@
     },
     {
         "transcription": "07/01/2014",
-        "label": 0,
+        "label": "other",
         "points": [
             72.66666666666667,
             30.591259640102827,
@@ -121,7 +121,7 @@
     },
     {
         "transcription": "SAMPLE",
-        "label": 4,
+        "label": "4",
         "points": [
             34.333333333333336,
             36.50385604113111,
@@ -133,7 +133,7 @@
     },
     {
         "transcription": "EMILY",
-        "label": 3,
+        "label": "3",
         "points": [
             34.166666666666664,
             41.90231362467866,
@@ -145,7 +145,7 @@
     },
     {
         "transcription": "118 WESTCAPITOLAVENUE",
-        "label": 2,
+        "label": "2",
         "points": [
             34.333333333333336,
             53.2133676092545,
@@ -157,7 +157,7 @@
     },
     {
         "transcription": "PIERRE.SD57501-0000",
-        "label": 2,
+        "label": "2",
         "points": [
             34.833333333333336,
             56.81233933161954,
@@ -169,7 +169,7 @@
     },
     {
         "transcription": "9",
-        "label": 0,
+        "label": "other",
         "points": [
             32.166666666666664,
             63.239074550128535,
@@ -181,7 +181,7 @@
     },
     {
         "transcription": "CLASS1",
-        "label": 0,
+        "label": "other",
         "points": [
             34.333333333333336,
             61.18251928020565,
@@ -193,7 +193,7 @@
     },
     {
         "transcription": "9aEND.P",
-        "label": 0,
+        "label": "other",
         "points": [
             57.833333333333336,
             60.9254498714653,
@@ -205,7 +205,7 @@
     },
     {
         "transcription": "SEX",
-        "label": 0,
+        "label": "other",
         "points": [
             82.5,
             62.724935732647815,
@@ -217,7 +217,7 @@
     },
     {
         "transcription": "12 RESTRICTIONS NONE",
-        "label": 0,
+        "label": "other",
         "points": [
             31.5,
             66.58097686375321,
@@ -229,7 +229,7 @@
     },
     {
         "transcription": "16HGT5-04",
-        "label": 0,
+        "label": "other",
         "points": [
             31.666666666666668,
             71.97943444730078,
@@ -241,7 +241,7 @@
     },
     {
         "transcription": "17WGT 130 Ib",
-        "label": 0,
+        "label": "other",
         "points": [
             52.5,
             72.23650385604113,
@@ -253,7 +253,7 @@
     },
     {
         "transcription": "18EYES",
-        "label": 0,
+        "label": "other",
         "points": [
             74.5,
             73.52185089974293,
@@ -265,7 +265,7 @@
     },
     {
         "transcription": "BRN",
-        "label": 0,
+        "label": "other",
         "points": [
             83.33333333333333,
             72.75064267352185,
@@ -277,7 +277,7 @@
     },
     {
         "transcription": "DONOR",
-        "label": 0,
+        "label": "other",
         "points": [
             81.33333333333333,
             84.06169665809769,

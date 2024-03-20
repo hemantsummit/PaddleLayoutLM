@@ -1,7 +1,7 @@
 [
     {
         "transcription": "Virainia",
-        "label": 0,
+        "label": "other",
         "points": [
             5.221932114882507,
             13.541666666666666,
@@ -13,7 +13,7 @@
     },
     {
         "transcription": "VALISA",
-        "label": 0,
+        "label": "other",
         "points": [
             53.78590078328982,
             11.805555555555555,
@@ -25,7 +25,7 @@
     },
     {
         "transcription": "DRIVERS LICENSE",
-        "label": 0,
+        "label": "other",
         "points": [
             37.0757180156658,
             15.625,
@@ -37,7 +37,7 @@
     },
     {
         "transcription": "T16700185",
-        "label": 0,
+        "label": "other",
         "points": [
             33.420365535248045,
             28.47222222222222,
@@ -49,7 +49,7 @@
     },
     {
         "transcription": "Oun Mmtte",
-        "label": 0,
+        "label": "other",
         "points": [
             33.942558746736296,
             25.694444444444443,
@@ -61,7 +61,7 @@
     },
     {
         "transcription": "nsat",
-        "label": 0,
+        "label": "other",
         "points": [
             5.221932114882507,
             33.68055555555556,
@@ -73,7 +73,7 @@
     },
     {
         "transcription": "Kat",
-        "label": 0,
+        "label": "other",
         "points": [
             33.942558746736296,
             33.68055555555556,
@@ -85,7 +85,7 @@
     },
     {
         "transcription": "MAURY",
-        "label": 4,
+        "label": "4",
         "points": [
             33.942558746736296,
             36.458333333333336,
@@ -97,7 +97,7 @@
     },
     {
         "transcription": "JUSTIN,WILLIAM",
-        "label": 3,
+        "label": "3",
         "points": [
             33.68146214099217,
             40.625,
@@ -109,7 +109,7 @@
     },
     {
         "transcription": "20",
-        "label": 0,
+        "label": "other",
         "points": [
             4.960835509138382,
             48.958333333333336,
@@ -121,7 +121,7 @@
     },
     {
         "transcription": " WEST BROAD STREET",
-        "label": 2,
+        "label": "2",
         "points": [
             33.68146214099217,
             50.34722222222222,
@@ -133,7 +133,7 @@
     },
     {
         "transcription": "RICHMOND,VA 23220",
-        "label": 2,
+        "label": "2",
         "points": [
             33.942558746736296,
             54.166666666666664,
@@ -145,7 +145,7 @@
     },
     {
         "transcription": "Clent",
-        "label": 0,
+        "label": "other",
         "points": [
             45.69190600522193,
             65.625,
@@ -157,7 +157,7 @@
     },
     {
         "transcription": "M",
-        "label": 0,
+        "label": "other",
         "points": [
             34.46475195822455,
             69.09722222222223,
@@ -169,7 +169,7 @@
     },
     {
         "transcription": "0715/1958",
-        "label": 1,
+        "label": "1",
         "points": [
             60.31331592689295,
             67.70833333333333,
@@ -181,7 +181,7 @@
     },
     {
         "transcription": "BRO",
-        "label": 0,
+        "label": "other",
         "points": [
             33.68146214099217,
             75.69444444444444,
@@ -193,7 +193,7 @@
     },
     {
         "transcription": "Ean",
-        "label": 0,
+        "label": "other",
         "points": [
             34.20365535248042,
             73.61111111111111,
@@ -205,7 +205,7 @@
     },
     {
         "transcription": "NONE",
-        "label": 0,
+        "label": "other",
         "points": [
             45.16971279373368,
             75.69444444444444,
@@ -217,7 +217,7 @@
     },
     {
         "transcription": "Enherntou",
-        "label": 0,
+        "label": "other",
         "points": [
             45.69190600522193,
             72.91666666666667,
@@ -229,7 +229,7 @@
     },
     {
         "transcription": "19272018",
-        "label": 0,
+        "label": "other",
         "points": [
             60.052219321148826,
             76.04166666666667,
@@ -241,7 +241,7 @@
     },
     {
         "transcription": "INORT",
-        "label": 0,
+        "label": "other",
         "points": [
             60.31331592689295,
             72.91666666666667,
@@ -253,7 +253,7 @@
     },
     {
         "transcription": "ti(ble",
-        "label": 0,
+        "label": "other",
         "points": [
             33.942558746736296,
             80.55555555555556,
@@ -265,7 +265,7 @@
     },
     {
         "transcription": "Ranrksm",
-        "label": 0,
+        "label": "other",
         "points": [
             45.69190600522193,
             80.55555555555556,
@@ -277,7 +277,7 @@
     },
     {
         "transcription": "0 2346",
-        "label": 0,
+        "label": "other",
         "points": [
             12.010443864229766,
             84.02777777777777,
@@ -289,7 +289,7 @@
     },
     {
         "transcription": "T3",
-        "label": 0,
+        "label": "other",
         "points": [
             33.942558746736296,
             84.02777777777777,
@@ -301,7 +301,7 @@
     },
     {
         "transcription": "NONE",
-        "label": 0,
+        "label": "other",
         "points": [
             45.69190600522193,
             83.68055555555556,
